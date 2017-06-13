@@ -1,8 +1,10 @@
 class Arret:
 
-    def __init__(self, name):
-        self.name = name
-        self.tricks = []    # creates a new empty list for each dog
+    def __init__(self, line, sens, first, last):
+    	self.line=line
+    	self.sens=sens
+        self.firstMetro=first
+        self.lastMetro=last
 
-    def add_trick(self, trick):
-        self.tricks.append(trick)
+    def toString(self):
+    	print ("Line %s, sens %s, starting at %s and ending at %s" %(self.line, self.sens, self.firstMetro ,self.lastMetro))

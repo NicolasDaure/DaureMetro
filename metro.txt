@@ -2,7 +2,7 @@
 1:a:Esplanade de la Defense:91:461:5.31:0.41
 1:a:Pont de Neuilly:104:457:5.32:0.42
 1:a:Les Sablons:118:453:5.34:0.44
-1:a:Porte Maillot:132:448:*5.30:0.45
+1:a:Porte Maillot:132:448:5.30:0.45
 1:a:Argentine:149:442:5.31:0.47
 1:a:Charles de Gaulle, etoile:170:436:5.32:0.48
 1:a:George V:192:428:5.33:0.49
@@ -30,7 +30,7 @@
 1:b:Porte de Vincennes:496:341:5.34:0.43
 1:b:Nation:464:351:5.35:0.45
 1:b:Reuilly Diderot:442:339:5.37:0.47
-1:b:Gare de Lyon:428:331:*5.35:0.48
+1:b:Gare de Lyon:428:331:5.35:0.48
 1:b:Bastille:403:360:5.36:0.50
 1:b:Saint-Paul, Le Marais:380:367:5.38:0.52
 1:b:Hotel de Ville:356:375:5.40:0.54
@@ -83,9 +83,9 @@
 2:b:Pere Lachaise:460:416:5.35:0.45
 2:b:Menilmontant:448:431:5.36:0.47
 2:b:Couronnes:439:442:5.37:0.48
-2:b:Belleville:428:456:*5.37:0.49
+2:b:Belleville:428:456:5.37:0.49
 2:b:Colonel Fabien:416:472:5.38:0.50
-2:b:Jaures:415:508:*5.36:0.52
+2:b:Jaures:415:508:5.36:0.52
 2:b:Stalingrad:408:516:5.37:0.53
 2:b:La Chapelle:372:521:5.38:0.54
 2:b:Barbes Rochechouart:350:521:5.40:0.56
@@ -169,7 +169,7 @@
 4:a:Marcadet Poissonniers:350:554:5.31:0.46
 4:a:Château Rouge:350:532:5.32:0.47
 4:a:Barbes Rochechouart:350:521:5.33:0.48
-4:a:Gare du Nord:364:510:*5.33:0.50
+4:a:Gare du Nord:364:510:5.33:0.50
 4:a:Gare de l'Est:367:484:5.34:0.51
 4:a:Château d'Eau:364:462:5.36:0.53
 4:a:Strasbourg Saint-Denis:359:447:5.37:0.54
@@ -197,7 +197,7 @@
 4:b:Denfert Rochereau:300:277:5.33:0.49
 4:b:Raspail:292:289:5.34:0.50
 4:b:Vavin:282:300:5.35:0.51
-4:b:Montparnasse Bienvenue:267:306:*5.33:0.52
+4:b:Montparnasse Bienvenue:267:306:5.33:0.52
 4:b:Saint-Placide:272:324:5.34:0.53
 4:b:Saint-Sulpice:275:336:5.35:0.54
 4:b:Saint-Germain-des-Pres:284:352:5.37:0.56
@@ -220,7 +220,7 @@
 ####5:a:eglise de Pantin, Place d'Italie
 5:a:Bobigny, Pablo Picasso:522:593:5123:0.39
 5:a:Bobigny-Pantin, Raymond Queneau:498:574:5.33:0.42
-5:a:eglise de Pantin:484:563:*5.31:0.44
+5:a:eglise de Pantin:484:563:5.31:0.44
 5:a:Hoche:468:550:5.32:0.45
 5:a:Porte de Pantin:454:538:5.34:0.47
 5:a:Ourcq:442:529:5.35:0.49
@@ -302,7 +302,7 @@
 6:b:Quai de la Gare:420:282:5.36:0.49
 6:b:Chevaleret:404:269:5.37:0.50
 6:b:Nationale:289:258:5.38:0.51
-6:b:Place d'Italie:368:254:*5.30:0.52
+6:b:Place d'Italie:368:254:5.30:0.52
 6:b:Corvisart:355:259:5.31:0.53
 6:b:Glaciere:337:265:5.32:0.55
 6:b:Saint-Jacques:321:269:5.33:0.56
@@ -434,7 +434,7 @@
 8:a:Rue Montmartre, Grands Boulevards:324:457:5.47:0.40
 8:a:Bonne Nouvelle:339:452:5.48:0.41
 8:a:Strasbourg Saint-Denis:359:445:5.49:0.43
-8:a:Republique:395:432:*5.36:0.44
+8:a:Republique:395:432:5.36:0.44
 8:a:Filles du Calvaire:397:413:5.37:0.46
 8:a:Saint-Sebastien-Froissart:397:394:5.38:0.47
 8:a:Chemin Vert:397:383:5.39:0.48
@@ -459,7 +459,7 @@
 8:b:Creteil-Prefecture:529:207:5.30:0.23
 8:b:Creteil-Universite:522:216:5.31:0.25
 8:b:Creteil-l'Echat, Hopital Henri Mondor:516:224:5.33:0.26
-8:b:Maisons-Alfort les Juilliottes:509:232:*5.28:0.28
+8:b:Maisons-Alfort les Juilliottes:509:232:5.28:0.28
 8:b:Maisons-Alfort, Stade:503:240:5.29:0.30
 8:b:ecole Veterinaire de Maisons-Alfort:495:250:5.31:0.32
 8:b:Charenton-ecoles:483:264:5.33:0.34
@@ -476,7 +476,7 @@
 8:b:Chemin Vert:397:383:5.48:0.49
 8:b:Saint-Sebastien-Froissart:397:394:5.49:0.50
 8:b:Filles du Calvaire:397:413:5.50:0.51
-8:b:Republique:395:432:*5.35:0.52
+8:b:Republique:395:432:5.35:0.52
 8:b:Strasbourg Saint-Denis:359:445:5.36:0.54
 8:b:Bonne Nouvelle:339:452:5.37:0.55
 8:b:Rue Montmartre, Grands Boulevards:324:457:5.38:0.56
@@ -497,7 +497,7 @@
 9:a:Pont de Sevres:66:262:5.30:0.25
 9:a:Billancourt:77:270:5.31:0.27
 9:a:Marcel Sembat:90:280:5.32:0.28
-9:a:Porte de Saint-Cloud:101:290:*5.30:0.30
+9:a:Porte de Saint-Cloud:101:290:5.30:0.30
 9:a:Exelmans:112:301:5.31:0.32
 9:a:Michel Ange Molitor:119:324:5.32:0.33
 9:a:Michel Ange Auteuil:123:334:5.33:0.34
@@ -518,7 +518,7 @@
 9:a:Rue Montmartre, Grands Boulevards:325:459:5.52:0.53
 9:a:Bonne Nouvelle:340:454:5.53:0.54
 9:a:Strasbourg Saint-Denis:359:447:5.55:0.56
-9:a:Republique:399:435:*5.44:0.57
+9:a:Republique:399:435:5.44:0.57
 9:a:Oberkampf:419:411:5.45:0.59
 9:a:Saint-Ambroise:428:401:5.46:1.00
 9:a:Voltaire:435:393:5.47:1.01
@@ -527,7 +527,7 @@
 9:a:Nation:466:357:5.51:1.05
 9:a:Buzenval:477:365:5.53:1.07
 9:a:Maraîchers:490:375:5.54:1.08
-9:a:Porte de Montreuil:498:382:*5.45:1.09
+9:a:Porte de Montreuil:498:382:5.45:1.09
 9:a:Robespierre:509:390:5.46:1.11
 9:a:Croix de Chavaux:523:402:5.48:1.13
 9:a:Mairie de Montreuil:537:412:5.51:1.15
@@ -535,7 +535,7 @@
 9:b:Mairie de Montreuil:537:412:5.24:0.24
 9:b:Croix de Chavaux:523:402:5.26:0.25
 9:b:Robespierre:509:390:5.27:0.27
-9:b:Porte de Montreuil:498:382:*5.25:0.29
+9:b:Porte de Montreuil:498:382:5.25:0.29
 9:b:Maraîchers:490:375:5.26:0.30
 9:b:Buzenval:477:365:5.27:0.31
 9:b:Nation:466:357:5.29:0.32
@@ -544,7 +544,7 @@
 9:b:Voltaire:435:393:5.33:0.36
 9:b:Saint-Ambroise:428:401:5.34:0.38
 9:b:Oberkampf:419:411:5.36:0.39
-9:b:Republique:399:435:*5.1230.40
+9:b:Republique:399:435:5.1230.40
 9:b:Strasbourg Saint-Denis:359:447:5.30:0.42
 9:b:Bonne Nouvelle:340:454:5.31:0.44
 9:b:Rue Montmartre, Grands Boulevards:325:459:5.32:0.45
@@ -565,7 +565,7 @@
 9:b:Michel Ange Auteuil:123:334:5.54:1.06
 9:b:Michel Ange Molitor:119:324:5.55:1.07
 9:b:Exelmans:112:301:5.56:1.08
-9:b:Porte de Saint-Cloud:101:290:*5.45:1.09
+9:b:Porte de Saint-Cloud:101:290:5.45:1.09
 9:b:Marcel Sembat:90:280:5.46:1.12
 9:b:Billancourt:77:270:5.48:1.13
 9:b:Pont de Sevres:66:262:5.50:1.15
@@ -574,7 +574,7 @@
 10:c:Michel Ange Molitor:119:324:5.31:0.51
 10:a:Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danude:67:307:5.35:0.47
 10:a:Boulogne, Jean Jaures:79:316:5.36:0.49
-10:a:Michel Ange Molitor:119:324:*5.31:0.51
+10:a:Michel Ange Molitor:119:324:5.31:0.51
 10:a:Chardon Lagâche:134:318:5.32:0.52
 10:a:Mirabeau:141:321:5.33:0.54
 10:a:Javel:158:326:5.35:0.55
@@ -617,7 +617,7 @@
 11:a:Mairie des Lilas:518:474:5.30:1.00
 11:a:Porte des Lilas:498:474:5.31:1.01
 11:a:Telegraphe:476:480:5.32:1.03
-11:a:Place des Fêtes:467:481:*5.31:1.04
+11:a:Place des Fêtes:467:481:5.31:1.04
 11:a:Jourdain:449:474:5.31:1.05
 11:a:Pyrenees:439:466:5.32:1.06
 11:a:Belleville:428:456:5.34:1.07
@@ -659,8 +659,8 @@
 12:a:Solferino:258:371:5.48:0.58
 12:a:Rue du Bac:258:358:5.49:0.59
 12:a:Sevres Babylone:260:347:5.50:1.00
-12:a:Rennes:271:333:5.51:*20.00
-12:a:Notre-Dame-des-Champs:278:320:5.52:*1.02
+12:a:Rennes:271:333:5.51:20.00
+12:a:Notre-Dame-des-Champs:278:320:5.52:1.02
 12:a:Montparnasse Bienvenue:266:307:5.54:1.03
 12:a:Falguiere:253:312:5.55:1.04
 12:a:Pasteur:243:307:5.56:1.06
@@ -673,7 +673,7 @@
 ####12:b:Miries d'Issy, Porte de la Chapelle
 12:b:Mairie d'Issy:187:226:5.30:0.39
 12:b:Corentin Celton:192:242:5.31:0.40
-12:b:Porte de Versailles:197:258:*5.30:0.42
+12:b:Porte de Versailles:197:258:5.30:0.42
 12:b:Convention:202:273:5.31:0.43
 12:b:Vaugirard:217:285:5.32:0.44
 12:b:Volontaires:231:297:5.33:0.46
@@ -681,8 +681,8 @@
 12:b:Falguiere:253:312:5.36:0.48
 12:b:Montparnasse Bienvenue:266:307:5.37:0.49
 12:b:Notre-Dame-des-Champs:278:320:5.38:0.51
-12:b:Rennes:271:333:5.39:*20.00
-12:b:Sevres Babylone:260:347:5.40:*0.52
+12:b:Rennes:271:333:5.39:20.00
+12:b:Sevres Babylone:260:347:5.40:0.52
 12:b:Rue du Bac:258:358:5.42:0.54
 12:b:Solferino:258:371:5.43:0.55
 12:b:Assemblee Nationale:258:382:5.44:0.56
@@ -715,8 +715,8 @@
 13:a:Guy Moquet:267:560:5.40:0.46
 13:a:La Fourche:259:533:5.42:0.48
 13:a:Place de Clichy:259:508:5.43:0.49
-13:a:Liege:258:497:5.45:*20.00
-13:a:Saint-Lazare:258:478:5.46:*0.52
+13:a:Liege:258:497:5.45:20.00
+13:a:Saint-Lazare:258:478:5.46:0.52
 13:a:Miromesnil:237:440:5.49:0.54
 13:a:Champs elysees, Clemenceau:237:413:5.51:0.56
 13:a:Invalides:237:389:5.53:0.58
@@ -743,12 +743,12 @@
 13:b:Duroc:238:336:5.41:0.48
 13:b:Saint-Francois Xavier:237:359:5.42:0.49
 13:b:Varenne:237:368:5.44:0.50
-13:b:Invalides:237:389:*5.37:0.51
+13:b:Invalides:237:389:5.37:0.51
 13:b:Champs elysees, Clemenceau:237:413:5.38:0.53
 13:b:Miromesnil:237:440:5.40:0.55
 13:b:Saint-Lazare:258:478:5.42:5.46
-13:b:Liege:258:497:5.43:*20.00
-13:b:Place de Clichy:259:508:5.44:*0.59
+13:b:Liege:258:497:5.43:20.00
+13:b:Place de Clichy:259:508:5.44:0.59
 13:b:La Fourche:259:533:5.45:1.00
 13:b:Guy Moquet:267:560:5.47:1.02
 13:b:Porte de Saint-Ouen:275:583:5.48:1.03

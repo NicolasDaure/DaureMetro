@@ -1,19 +1,19 @@
+from station import *
+from ligne import *
+
 class Graphe:
 
     def __init__(self):
         self.stations = []    # creates a new empty list for each station
-        self.arret = []    # creates a new empty list for each stop
-        self.ligne = []    # creates a new empty list for each line
 
-    def add_station(self, station):
-        self.stations.append(station)
+    def add_station(self, name, x, y):
+        s = Station(name, x, y)
+        self.stations.append(s)
 
-    def add_arret(self, stop):
-        self.arret.append(stop)
-
-    def add_ligne(self, line):
-        self.ligne.append(line)
-
-    def print_station(self):
-    	for station in self.stations:
-    		print "Station : %s" %station
+    def toString(self):
+        print "##### GRAPHE #####"
+        print " "
+        print "@@@@@ STATION @@@@@"
+        for station in self.stations:
+            station.toString()
+        print " "

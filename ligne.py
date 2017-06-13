@@ -1,8 +1,7 @@
 class Ligne:
 
-    def __init__(self, name):
-        self.name = name
-        self.tricks = []    # creates a new empty list for each dog
+    def __init__(self, numero):
+        self.id = numero
 
-    def add_trick(self, trick):
-        self.tricks.append(trick)
+    def toString(self):
+    	print ("Line number : %d" %self.id)

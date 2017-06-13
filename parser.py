@@ -1,6 +1,3 @@
-from station import *
-from arret import *
-from ligne import *
 from graphe import *
 
 import sys
@@ -15,17 +12,41 @@ def parse():
     for ligne in lignes:
         list_values = ligne.split(":")
         counter=1
+        ligne="tmp"
+        sens="tmp"
+        name="tmp"
+        x=0
+        y=0
+        first=0
+        last=0
         for item in list_values:
             if(item!='\n'):
-                if(counter==3):
-                    g.add_station(item)
+                if(counter==1):
+                    ligne=item
+                    counter=counter+1
+                elif(counter==2):
+                    sens=item
+                    counter=counter+1
+                elif(counter==3):
+                    name=item
+                    counter=counter+1
+                elif(counter==4):
+                    x=float(item)
+                    counter=counter+1
+                elif(counter==5):
+                    y=float(item)
+                    counter=counter+1
+                elif(counter==6):
+                    first=item
+                    counter=counter+1
+                elif(counter==7):
+                    last=item
+                    g.add_station(name, x, y)
+                    g.stations[-1].addArret(ligne,sens,first,last)
                     counter=counter+1
                 else:
-                    #sys.stdout.write(item)
-                    #sys.stdout.write(" ")
                     counter=counter+1
-        #sys.stdout.write("\n")
-    g.print_station()
+    g.toString()
 
 if __name__ == '__main__':
     parse()
