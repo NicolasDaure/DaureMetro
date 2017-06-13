@@ -1,6 +1,6 @@
 class Graphe:
 
-    def __init__():
+    def __init__(self):
         self.stations = []    # creates a new empty list for each station
         self.arret = []    # creates a new empty list for each stop
         self.ligne = []    # creates a new empty list for each line
@@ -13,3 +13,7 @@ class Graphe:
 
     def add_ligne(self, line):
         self.ligne.append(line)
+
+    def print_station(self):
+    	for station in self.stations:
+    		print "Station : %s" %station
