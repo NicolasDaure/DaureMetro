@@ -41,9 +41,12 @@ def parse():
                     counter=counter+1
                 elif(counter==7):
                     last=item
-                    g.add_station(name, x, y)
-                    g.stations[-1].addArret(ligne,sens,first,last)
-                    counter=counter+1
+                    if(x==0 or y==0 or first==0 or last ==0):
+                        print("")
+                    else:    
+                        g.add_station(name, x, y)
+                        g.stations[-1].addArret(ligne,sens,first,last)
+                        counter=counter+1
                 else:
                     counter=counter+1
     g.toString()
