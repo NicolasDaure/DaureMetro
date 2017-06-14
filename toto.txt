@@ -1,0 +1,1428 @@
+Cette arrete allant de La Defense a Esplanade de la Defense, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Esplanade de la Defense a Pont de Neuilly, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Pont de Neuilly a Les Sablons, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Les Sablons a Porte Maillot, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Porte Maillot a Argentine, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Argentine a Charles de Gaulle, Etoile, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Charles de Gaulle, Etoile a George V, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de George V a Franklin D. Roosevelt, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Franklin D. Roosevelt a Champs elysees, Clemenceau, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Champs elysees, Clemenceau a Concorde, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Concorde a Tuileries, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Tuileries a Palais Royal, Musee du Louvre, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Palais Royal, Musee du Louvre a Louvre, Rivoli, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Louvre, Rivoli a Chatelet, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Chatelet a Hotel de Ville, mesure 43.000000km et dure 8.139535minutes
+ 
+Cette arrete allant de Hotel de Ville a Saint-Paul, Le Marais, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Saint-Paul, Le Marais a Bastille, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Bastille a Gare de Lyon, mesure 54.000000km et dure 6.481481minutes
+ 
+Cette arrete allant de Gare de Lyon a Reuilly Diderot, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Reuilly Diderot a Nation, mesure 34.000000km et dure 10.294118minutes
+ 
+Cette arrete allant de Nation a Porte de Vincennes, mesure 42.000000km et dure 8.333333minutes
+ 
+Cette arrete allant de Porte de Vincennes a Saint-Mande, Tourelle, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Saint-Mande, Tourelle a Berault, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Berault a Chateau de Vincennes, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Chateau de Vincennes a Berault, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Berault a Saint-Mande, Tourelle, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Saint-Mande, Tourelle a Porte de Vincennes, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte de Vincennes a Nation, mesure 42.000000km et dure 8.333333minutes
+ 
+Cette arrete allant de Nation a Reuilly Diderot, mesure 34.000000km et dure 10.294118minutes
+ 
+Cette arrete allant de Reuilly Diderot a Gare de Lyon, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Gare de Lyon a Bastille, mesure 54.000000km et dure 6.481481minutes
+ 
+Cette arrete allant de Bastille a Saint-Paul, Le Marais, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Saint-Paul, Le Marais a Hotel de Ville, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Hotel de Ville a Chatelet, mesure 43.000000km et dure 8.139535minutes
+ 
+Cette arrete allant de Chatelet a Louvre, Rivoli, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Louvre, Rivoli a Palais Royal, Musee du Louvre, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Palais Royal, Musee du Louvre a Tuileries, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Tuileries a Concorde, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Concorde a Champs elysees, Clemenceau, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Champs elysees, Clemenceau a Franklin D. Roosevelt, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Franklin D. Roosevelt a George V, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de George V a Charles de Gaulle, Etoile, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Charles de Gaulle, Etoile a Argentine, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Argentine a Porte Maillot, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Porte Maillot a Les Sablons, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Les Sablons a Pont de Neuilly, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Pont de Neuilly a Esplanade de la Defense, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Esplanade de la Defense a La Defense, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Porte Dauphine a Victor Hugo, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Victor Hugo a Charles de Gaulle, Etoile, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Charles de Gaulle, Etoile a Ternes, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Ternes a Courcelles, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Courcelles a Monceau, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Monceau a Villiers, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Villiers a Rome, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Rome a Place de Clichy, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Place de Clichy a Blanche, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Blanche a Pigalle, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Pigalle a Anvers, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Anvers a Barbes Rochechouart, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Barbes Rochechouart a La Chapelle, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de La Chapelle a Stalingrad, mesure 41.000000km et dure 8.536585minutes
+ 
+Cette arrete allant de Stalingrad a Jaures, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Jaures a Colonel Fabien, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Colonel Fabien a Belleville, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Belleville a Couronnes, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Couronnes a Menilmontant, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Menilmontant a Pere Lachaise, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Pere Lachaise a Philippe-Auguste, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Philippe-Auguste a Alexandre Dumas, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Alexandre Dumas a Avron, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Avron a Nation, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Nation a Avron, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Avron a Alexandre Dumas, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Alexandre Dumas a Philippe-Auguste, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Philippe-Auguste a Pere Lachaise, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Pere Lachaise a Menilmontant, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Menilmontant a Couronnes, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Couronnes a Belleville, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Belleville a Colonel Fabien, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Colonel Fabien a Jaures, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Jaures a Stalingrad, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Stalingrad a La Chapelle, mesure 41.000000km et dure 8.536585minutes
+ 
+Cette arrete allant de La Chapelle a Barbes Rochechouart, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Barbes Rochechouart a Anvers, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Anvers a Pigalle, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Pigalle a Blanche, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Blanche a Place de Clichy, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Place de Clichy a Rome, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Rome a Villiers, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Villiers a Monceau, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Monceau a Courcelles, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Courcelles a Ternes, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Ternes a Charles de Gaulle, Etoile, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Charles de Gaulle, Etoile a Victor Hugo, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Victor Hugo a Porte Dauphine, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Pont de Levallois - Becon a Anatole France, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Anatole France a Louise Michel, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Louise Michel a Porte de Champerret, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Porte de Champerret a Pereire, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Pereire a Wagram, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Wagram a Malesherbes, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Malesherbes a Villiers, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Villiers a Europe, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Europe a Saint-Lazare, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Saint-Lazare a Havre - Caumartin, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Havre - Caumartin a Opera, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Opera a Quatre-Septembre, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Quatre-Septembre a Bourse, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Bourse a Sentier, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Sentier a Reaumur - Sebastopol, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Reaumur - Sebastopol a Arts et Metiers, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Arts et Metiers a Temple, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Temple a Republique, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Republique a Parmentier, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Parmentier a Rue Saint-Maur, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Rue Saint-Maur a Pere Lachaise, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Pere Lachaise a Gambetta, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Gambetta a Porte de Bagnolet, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Porte de Bagnolet a Gallieni, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Gallieni a Porte de Bagnolet, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Porte de Bagnolet a Gambetta, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Gambetta a Pere Lachaise, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Pere Lachaise a Rue Saint-Maur, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Rue Saint-Maur a Parmentier, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Parmentier a Republique, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Republique a Temple, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Temple a Arts et Metiers, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Arts et Metiers a Reaumur - Sebastopol, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Reaumur - Sebastopol a Sentier, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Sentier a Bourse, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Bourse a Quatre-Septembre, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Quatre-Septembre a Opera, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Opera a Havre - Caumartin, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Havre - Caumartin a Saint-Lazare, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Saint-Lazare a Europe, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Europe a Villiers, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Villiers a Malesherbes, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Malesherbes a Wagram, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Wagram a Pereire, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Pereire a Porte de Champerret, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte de Champerret a Louise Michel, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Louise Michel a Anatole France, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Anatole France a Pont de Levallois - Becon, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Gambetta a Pelleport, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Pelleport a Saint-Fargeau, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Saint-Fargeau a Porte des Lilas, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Porte des Lilas a Saint-Fargeau, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Saint-Fargeau a Pelleport, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Pelleport a Gambetta, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Porte de Clignancourt a Simplon, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Simplon a Marcadet - Poissonniers, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Marcadet - Poissonniers a Chateau Rouge, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Chateau Rouge a Barbes Rochechouart, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Barbes Rochechouart a Gare du Nord, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Gare du Nord a Gare de l'Est, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Gare de l'Est a Chateau d'Eau, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Chateau d'Eau a Strasbourg - Saint-Denis, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Strasbourg - Saint-Denis a Reaumur - Sebastopol, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Reaumur - Sebastopol a Etienne Marcel, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Etienne Marcel a Les Halles, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Les Halles a Chatelet, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Chatelet a Cite, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Cite a Saint-Michel, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Saint-Michel a Odeon, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Odeon a Saint-Germain-des-Pres, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Saint-Germain-des-Pres a Saint-Sulpice, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Saint-Sulpice a Saint-Placide, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Saint-Placide a Montparnasse Bienvenue, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Montparnasse Bienvenue a Vavin, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Vavin a Raspail, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Raspail a Denfert-Rochereau, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Denfert-Rochereau a Mouton-Duvernet, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Mouton-Duvernet a Alesia, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Alesia a Porte d'Orleans, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Porte d'Orleans a Alesia, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Alesia a Mouton-Duvernet, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Mouton-Duvernet a Denfert-Rochereau, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Denfert-Rochereau a Raspail, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Raspail a Vavin, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Vavin a Montparnasse Bienvenue, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Montparnasse Bienvenue a Saint-Placide, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Saint-Placide a Saint-Sulpice, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Saint-Sulpice a Saint-Germain-des-Pres, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Saint-Germain-des-Pres a Odeon, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Odeon a Saint-Michel, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Saint-Michel a Cite, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Cite a Chatelet, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Chatelet a Les Halles, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Les Halles a Etienne Marcel, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Etienne Marcel a Reaumur - Sebastopol, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Reaumur - Sebastopol a Strasbourg - Saint-Denis, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Strasbourg - Saint-Denis a Chateau d'Eau, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Chateau d'Eau a Gare de l'Est, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Gare de l'Est a Gare du Nord, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Gare du Nord a Barbes Rochechouart, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Barbes Rochechouart a Chateau Rouge, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Chateau Rouge a Marcadet - Poissonniers, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Marcadet - Poissonniers a Simplon, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Simplon a Porte de Clignancourt, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Bobigny - Pablo Picasso a Bobigny - Pantin - Raymond Queneau, mesure 43.000000km et dure 8.139535minutes
+ 
+Cette arrete allant de Bobigny - Pantin - Raymond Queneau a Eglise de Pantin, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Eglise de Pantin a Hoche, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Hoche a Porte de Pantin, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Porte de Pantin a Ourcq, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Ourcq a Laumiere, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Laumiere a Jaures, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Jaures a Stalingrad, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Stalingrad a Gare du Nord, mesure 50.000000km et dure 7.000000minutes
+ 
+Cette arrete allant de Gare du Nord a Gare de l'Est, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Gare de l'Est a Jacques Bonsergent, mesure 55.000000km et dure 6.363636minutes
+ 
+Cette arrete allant de Jacques Bonsergent a Republique, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Republique a Oberkampf, mesure 44.000000km et dure 7.954545minutes
+ 
+Cette arrete allant de Oberkampf a Richard-Lenoir, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Richard-Lenoir a Breguet-Sabin, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Breguet-Sabin a Bastille, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Bastille a Quai de la Rapee, mesure 42.000000km et dure 8.333333minutes
+ 
+Cette arrete allant de Quai de la Rapee a Gare d'Austerlitz, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Gare d'Austerlitz a Saint-Marcel, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Saint-Marcel a Campo-Formio, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Campo-Formio a Place d'Italie, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Place d'Italie a Campo-Formio, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Campo-Formio a Saint-Marcel, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Saint-Marcel a Gare d'Austerlitz, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Gare d'Austerlitz a Quai de la Rapee, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Quai de la Rapee a Bastille, mesure 42.000000km et dure 8.333333minutes
+ 
+Cette arrete allant de Bastille a Breguet-Sabin, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Breguet-Sabin a Richard-Lenoir, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Richard-Lenoir a Oberkampf, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Oberkampf a Republique, mesure 44.000000km et dure 7.954545minutes
+ 
+Cette arrete allant de Republique a Jacques Bonsergent, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Jacques Bonsergent a Gare de l'Est, mesure 55.000000km et dure 6.363636minutes
+ 
+Cette arrete allant de Gare de l'Est a Gare du Nord, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Gare du Nord a Stalingrad, mesure 50.000000km et dure 7.000000minutes
+ 
+Cette arrete allant de Stalingrad a Jaures, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Jaures a Laumiere, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Laumiere a Ourcq, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Ourcq a Porte de Pantin, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Porte de Pantin a Hoche, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Hoche a Eglise de Pantin, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Eglise de Pantin a Bobigny - Pantin - Raymond Queneau, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Bobigny - Pantin - Raymond Queneau a Bobigny - Pablo Picasso, mesure 43.000000km et dure 8.139535minutes
+ 
+Cette arrete allant de Charles de Gaulle, Etoile a Kleber, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Kleber a Boissiere, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Boissiere a Trocadero, mesure 12.000000km et dure 29.166667minutes
+ 
+Cette arrete allant de Trocadero a Passy, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Passy a Bir-Hakeim, mesure 35.000000km et dure 10.000000minutes
+ 
+Cette arrete allant de Bir-Hakeim a Dupleix, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Dupleix a La Motte-Picquet - Grenelle, mesure 36.000000km et dure 9.722222minutes
+ 
+Cette arrete allant de La Motte-Picquet - Grenelle a Cambronne, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Cambronne a Sevres - Lecourbe, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Sevres - Lecourbe a Pasteur, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Pasteur a Montparnasse Bienvenue, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Montparnasse Bienvenue a Edgar Quinet, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Edgar Quinet a Raspail, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Raspail a Denfert-Rochereau, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Denfert-Rochereau a Saint-Jacques, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Saint-Jacques a Glaciere, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Glaciere a Corvisart, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Corvisart a Place d'Italie, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Place d'Italie a Nationale, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Nationale a Chevaleret, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Chevaleret a Quai de la Gare, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Quai de la Gare a Bercy, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Bercy a Dugommier, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Dugommier a Daumesnil, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Daumesnil a Bel-Air, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Bel-Air a Picpus, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Picpus a Nation, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Nation a Picpus, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Picpus a Bel-Air, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Bel-Air a Daumesnil, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Daumesnil a Dugommier, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Dugommier a Bercy, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Bercy a Quai de la Gare, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Quai de la Gare a Chevaleret, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Chevaleret a Nationale, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Nationale a Place d'Italie, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Place d'Italie a Corvisart, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Corvisart a Glaciere, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Glaciere a Saint-Jacques, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Saint-Jacques a Denfert-Rochereau, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Denfert-Rochereau a Raspail, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Raspail a Edgar Quinet, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Edgar Quinet a Montparnasse Bienvenue, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Montparnasse Bienvenue a Pasteur, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Pasteur a Sevres - Lecourbe, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Sevres - Lecourbe a Cambronne, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Cambronne a La Motte-Picquet - Grenelle, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de La Motte-Picquet - Grenelle a Dupleix, mesure 36.000000km et dure 9.722222minutes
+ 
+Cette arrete allant de Dupleix a Bir-Hakeim, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Bir-Hakeim a Passy, mesure 35.000000km et dure 10.000000minutes
+ 
+Cette arrete allant de Passy a Trocadero, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Trocadero a Boissiere, mesure 12.000000km et dure 29.166667minutes
+ 
+Cette arrete allant de Boissiere a Kleber, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Kleber a Charles de Gaulle, Etoile, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de La Courneuve - 8 Mai 1945 a Fort d'Aubervilliers, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Fort d'Aubervilliers a Aubervilliers - Pantin - Quatre Chemins, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Aubervilliers - Pantin - Quatre Chemins a Porte de la Villette, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte de la Villette a Corentin-Cariou, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Corentin-Cariou a Crimee, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Crimee a Riquet, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Riquet a Stalingrad, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Stalingrad a Louis Blanc, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Louis Blanc a Chateau-Landon, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Chateau-Landon a Gare de l'Est, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Gare de l'Est a Poissonniere, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Poissonniere a Cadet, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Cadet a Le Peletier, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Le Peletier a Chaussee d'Antin - La Fayette, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Chaussee d'Antin - La Fayette a Opera, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Opera a Pyramides, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Pyramides a Palais Royal, Musee du Louvre, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Palais Royal, Musee du Louvre a Pont-Neuf, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Pont-Neuf a Chatelet, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Chatelet a Pont-Marie, mesure 42.000000km et dure 8.333333minutes
+ 
+Cette arrete allant de Pont-Marie a Sully - Morland, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Sully - Morland a Jussieu, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Jussieu a Place Monge, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Place Monge a Censier - Daubenton, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Censier - Daubenton a Les Gobelins, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Les Gobelins a Place d'Italie, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Place d'Italie a Tolbiac, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Tolbiac a Maison Blanche, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Maison Blanche a Porte d'Italie, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Porte d'Italie a Porte de Choisy, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte de Choisy a Porte d'Ivry, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Porte d'Ivry a Pierre et Marie Curie, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Pierre et Marie Curie a Mairie d'Ivry, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Mairie d'Ivry a Pierre et Marie Curie, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Pierre et Marie Curie a Porte d'Ivry, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte d'Ivry a Porte de Choisy, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Porte de Choisy a Porte d'Italie, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte d'Italie a Maison Blanche, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Maison Blanche a Tolbiac, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Tolbiac a Place d'Italie, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Place d'Italie a Les Gobelins, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Les Gobelins a Censier - Daubenton, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Censier - Daubenton a Place Monge, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Place Monge a Jussieu, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Jussieu a Sully - Morland, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Sully - Morland a Pont-Marie, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Pont-Marie a Chatelet, mesure 42.000000km et dure 8.333333minutes
+ 
+Cette arrete allant de Chatelet a Pont-Neuf, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Pont-Neuf a Palais Royal, Musee du Louvre, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Palais Royal, Musee du Louvre a Pyramides, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Pyramides a Opera, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Opera a Chaussee d'Antin - La Fayette, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Chaussee d'Antin - La Fayette a Le Peletier, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Le Peletier a Cadet, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Cadet a Poissonniere, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Poissonniere a Gare de l'Est, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Gare de l'Est a Chateau-Landon, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Chateau-Landon a Louis Blanc, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Louis Blanc a Stalingrad, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Stalingrad a Riquet, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Riquet a Crimee, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Crimee a Corentin-Cariou, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Corentin-Cariou a Porte de la Villette, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Porte de la Villette a Aubervilliers - Pantin - Quatre Chemins, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Aubervilliers - Pantin - Quatre Chemins a Fort d'Aubervilliers, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Fort d'Aubervilliers a La Courneuve - 8 Mai 1945, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Maison Blanche a Le Kremlin-Bicetre, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Le Kremlin-Bicetre a Villejuif - Leo Lagrange, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Villejuif - Leo Lagrange a Villejuif - Paul Vaillant-Couturier, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Villejuif - Paul Vaillant-Couturier a Villejuif - Louis Aragon, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Villejuif - Louis Aragon a Villejuif - Paul Vaillant-Couturier, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Villejuif - Paul Vaillant-Couturier a Villejuif - Leo Lagrange, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Villejuif - Leo Lagrange a Le Kremlin-Bicetre, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Le Kremlin-Bicetre a Maison Blanche, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Pre-Saint-Gervais a Danube, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Danube a Botzaris, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Botzaris a Buttes Chaumont, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Buttes Chaumont a Bolivar, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Bolivar a Jaures, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Jaures a Louis Blanc, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Louis Blanc a Jaures, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Jaures a Bolivar, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Bolivar a Buttes Chaumont, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Buttes Chaumont a Botzaris, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Botzaris a Place des Fetes, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Place des Fetes a Pre-Saint-Gervais, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Balard a Lourmel, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Lourmel a Boucicaut, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Boucicaut a Felix Faure, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Felix Faure a Commerce, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Commerce a La Motte-Picquet - Grenelle, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de La Motte-Picquet - Grenelle a Ecole Militaire, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Ecole Militaire a La Tour-Maubourg, mesure 34.000000km et dure 10.294118minutes
+ 
+Cette arrete allant de La Tour-Maubourg a Invalides, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Invalides a Concorde, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Concorde a Madeleine, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Madeleine a Opera, mesure 48.000000km et dure 7.291667minutes
+ 
+Cette arrete allant de Opera a Richelieu - Drouot, mesure 41.000000km et dure 8.536585minutes
+ 
+Cette arrete allant de Richelieu - Drouot a Rue Montmartre, Grands Boulevards, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Rue Montmartre, Grands Boulevards a Bonne Nouvelle, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Bonne Nouvelle a Strasbourg - Saint-Denis, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Strasbourg - Saint-Denis a Republique, mesure 52.000000km et dure 6.730769minutes
+ 
+Cette arrete allant de Republique a Filles du Calvaire, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Filles du Calvaire a Saint-Sebastien - Froissart, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Saint-Sebastien - Froissart a Chemin Vert, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Chemin Vert a Bastille, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Bastille a Ledru-Rollin, mesure 281.000000km et dure 1.245552minutes
+ 
+Cette arrete allant de Ledru-Rollin a Faidherbe-Chaligny, mesure 316.000000km et dure 1.107595minutes
+ 
+Cette arrete allant de Faidherbe-Chaligny a Reuilly Diderot, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Reuilly Diderot a Montgallet, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Montgallet a Daumesnil, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Daumesnil a Michel Bizot, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Michel Bizot a Porte Doree, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Porte Doree a Porte de Charenton, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Porte de Charenton a Liberte, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Liberte a Charenton-Ecoles, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Charenton-Ecoles a Ecole Veterinaire de Maisons-Alfort, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Ecole Veterinaire de Maisons-Alfort a Maisons-Alfort - Stade, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Maisons-Alfort - Stade a Maisons-Alfort - Les Juilliottes, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Maisons-Alfort - Les Juilliottes a Creteil-l'Echat, Hopital Henri Mondor, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Creteil-l'Echat, Hopital Henri Mondor a Creteil-Universite, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Creteil-Universite a Creteil-Prefecture, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Creteil-Prefecture a Creteil-Universite, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Creteil-Universite a Creteil-l'Echat, Hopital Henri Mondor, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Creteil-l'Echat, Hopital Henri Mondor a Maisons-Alfort - Les Juilliottes, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Maisons-Alfort - Les Juilliottes a Maisons-Alfort - Stade, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Maisons-Alfort - Stade a Ecole Veterinaire de Maisons-Alfort, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Ecole Veterinaire de Maisons-Alfort a Charenton-Ecoles, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Charenton-Ecoles a Liberte, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Liberte a Porte de Charenton, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Porte de Charenton a Porte Doree, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Porte Doree a Michel Bizot, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Michel Bizot a Daumesnil, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Daumesnil a Montgallet, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Montgallet a Reuilly Diderot, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Reuilly Diderot a Faidherbe-Chaligny, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Faidherbe-Chaligny a Ledru-Rollin, mesure 316.000000km et dure 1.107595minutes
+ 
+Cette arrete allant de Ledru-Rollin a Bastille, mesure 281.000000km et dure 1.245552minutes
+ 
+Cette arrete allant de Bastille a Chemin Vert, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Chemin Vert a Saint-Sebastien - Froissart, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Saint-Sebastien - Froissart a Filles du Calvaire, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Filles du Calvaire a Republique, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Republique a Strasbourg - Saint-Denis, mesure 52.000000km et dure 6.730769minutes
+ 
+Cette arrete allant de Strasbourg - Saint-Denis a Bonne Nouvelle, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Bonne Nouvelle a Rue Montmartre, Grands Boulevards, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Rue Montmartre, Grands Boulevards a Richelieu - Drouot, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Richelieu - Drouot a Opera, mesure 41.000000km et dure 8.536585minutes
+ 
+Cette arrete allant de Opera a Madeleine, mesure 48.000000km et dure 7.291667minutes
+ 
+Cette arrete allant de Madeleine a Concorde, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Concorde a Invalides, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Invalides a La Tour-Maubourg, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de La Tour-Maubourg a Ecole Militaire, mesure 34.000000km et dure 10.294118minutes
+ 
+Cette arrete allant de Ecole Militaire a La Motte-Picquet - Grenelle, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de La Motte-Picquet - Grenelle a Commerce, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Commerce a Felix Faure, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Felix Faure a Boucicaut, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Boucicaut a Lourmel, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Lourmel a Balard, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Pont de Sevres a Billancourt, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Billancourt a Marcel Sembat, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Marcel Sembat a Porte de Saint-Cloud, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Porte de Saint-Cloud a Exelmans, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Exelmans a Michel-Ange - Molitor, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Michel-Ange - Molitor a Michel-Ange - Auteuil, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Michel-Ange - Auteuil a Jasmin, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Jasmin a Ranelagh, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Ranelagh a La Muette, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de La Muette a Rue de la Pompe, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Rue de la Pompe a Trocadero, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Trocadero a Iena, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Iena a Alma - Marceau, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Alma - Marceau a Franklin D. Roosevelt, mesure 38.000000km et dure 9.210526minutes
+ 
+Cette arrete allant de Franklin D. Roosevelt a Saint-Philippe du Roule, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Saint-Philippe du Roule a Miromesnil, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Miromesnil a Saint-Augustin, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Saint-Augustin a Havre - Caumartin, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Havre - Caumartin a Chaussee d'Antin - La Fayette, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Chaussee d'Antin - La Fayette a Richelieu - Drouot, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Richelieu - Drouot a Rue Montmartre, Grands Boulevards, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Rue Montmartre, Grands Boulevards a Bonne Nouvelle, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Bonne Nouvelle a Strasbourg - Saint-Denis, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Strasbourg - Saint-Denis a Republique, mesure 52.000000km et dure 6.730769minutes
+ 
+Cette arrete allant de Republique a Oberkampf, mesure 44.000000km et dure 7.954545minutes
+ 
+Cette arrete allant de Oberkampf a Saint-Ambroise, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Saint-Ambroise a Voltaire, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Voltaire a Charonne, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Charonne a Rue des Boulets, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Rue des Boulets a Nation, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Nation a Buzenval, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Buzenval a Maraichers, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Maraichers a Porte de Montreuil, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Porte de Montreuil a Robespierre, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Robespierre a Croix de Chavaux, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Croix de Chavaux a Mairie de Montreuil, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Mairie de Montreuil a Croix de Chavaux, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Croix de Chavaux a Robespierre, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Robespierre a Porte de Montreuil, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Porte de Montreuil a Maraichers, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Maraichers a Buzenval, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Buzenval a Nation, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Nation a Rue des Boulets, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Rue des Boulets a Charonne, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Charonne a Voltaire, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Voltaire a Saint-Ambroise, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Saint-Ambroise a Oberkampf, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Oberkampf a Republique, mesure 44.000000km et dure 7.954545minutes
+ 
+Cette arrete allant de Republique a Strasbourg - Saint-Denis, mesure 52.000000km et dure 6.730769minutes
+ 
+Cette arrete allant de Strasbourg - Saint-Denis a Bonne Nouvelle, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Bonne Nouvelle a Rue Montmartre, Grands Boulevards, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Rue Montmartre, Grands Boulevards a Richelieu - Drouot, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Richelieu - Drouot a Chaussee d'Antin - La Fayette, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Chaussee d'Antin - La Fayette a Havre - Caumartin, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Havre - Caumartin a Saint-Augustin, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Saint-Augustin a Miromesnil, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Miromesnil a Saint-Philippe du Roule, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Saint-Philippe du Roule a Franklin D. Roosevelt, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Franklin D. Roosevelt a Alma - Marceau, mesure 38.000000km et dure 9.210526minutes
+ 
+Cette arrete allant de Alma - Marceau a Iena, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Iena a Trocadero, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Trocadero a Rue de la Pompe, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Rue de la Pompe a La Muette, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de La Muette a Ranelagh, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Ranelagh a Jasmin, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Jasmin a Michel-Ange - Auteuil, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Michel-Ange - Auteuil a Michel-Ange - Molitor, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Michel-Ange - Molitor a Exelmans, mesure 30.000000km et dure 11.666667minutes
+ 
+Cette arrete allant de Exelmans a Porte de Saint-Cloud, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Porte de Saint-Cloud a Marcel Sembat, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Marcel Sembat a Billancourt, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Billancourt a Pont de Sevres, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Boulogne - Pont de Saint-Cloud a Boulogne - Jean Jaures, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Boulogne - Jean Jaures a Michel-Ange - Molitor, mesure 48.000000km et dure 7.291667minutes
+ 
+Cette arrete allant de Michel-Ange - Molitor a Chardon-Lagache, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Chardon-Lagache a Mirabeau, mesure 10.000000km et dure 35.000000minutes
+ 
+Cette arrete allant de Mirabeau a Javel - Andre Citroen, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Javel - Andre Citroen a Charles Michels, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Charles Michels a Avenue emile Zola, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Avenue emile Zola a La Motte-Picquet - Grenelle, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de La Motte-Picquet - Grenelle a Segur, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Segur a Duroc, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Duroc a Vaneau, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Vaneau a Sevres - Babylone, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Sevres - Babylone a Mabillon, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Mabillon a Odeon, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Odeon a Cluny - La Sorbonne, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Cluny - La Sorbonne a Maubert - Mutualite, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Maubert - Mutualite a Cardinal Lemoine, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Cardinal Lemoine a Jussieu, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Jussieu a Gare d'Austerlitz, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Gare d'Austerlitz a Jussieu, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Jussieu a Cardinal Lemoine, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Cardinal Lemoine a Maubert - Mutualite, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Maubert - Mutualite a Cluny - La Sorbonne, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Cluny - La Sorbonne a Odeon, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Odeon a Mabillon, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Mabillon a Sevres - Babylone, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Sevres - Babylone a Vaneau, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Vaneau a Duroc, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Duroc a Segur, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Segur a La Motte-Picquet - Grenelle, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de La Motte-Picquet - Grenelle a Avenue emile Zola, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Avenue emile Zola a Charles Michels, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Charles Michels a Javel - Andre Citroen, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Javel - Andre Citroen a Eglise d'Auteuil, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Eglise d'Auteuil a Michel-Ange - Auteuil, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Michel-Ange - Auteuil a Porte d'Auteuil, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte d'Auteuil a Boulogne - Jean Jaures, mesure 46.000000km et dure 7.608696minutes
+ 
+Cette arrete allant de Boulogne - Jean Jaures a Boulogne - Pont de Saint-Cloud, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Porte d'Auteuil a Michel-Ange - Auteuil, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Michel-Ange - Auteuil a Michel-Ange - Molitor, mesure 14.000000km et dure 25.000000minutes
+ 
+Cette arrete allant de Mairie des Lilas a Porte des Lilas, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte des Lilas a Telegraphe, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Telegraphe a Place des Fetes, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Place des Fetes a Jourdain, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Jourdain a Pyrenees, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Pyrenees a Belleville, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Belleville a Goncourt, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Goncourt a Republique, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Republique a Arts et Metiers, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Arts et Metiers a Rambuteau, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Rambuteau a Hotel de Ville, mesure 36.000000km et dure 9.722222minutes
+ 
+Cette arrete allant de Hotel de Ville a Chatelet, mesure 43.000000km et dure 8.139535minutes
+ 
+Cette arrete allant de Chatelet a Hotel de Ville, mesure 43.000000km et dure 8.139535minutes
+ 
+Cette arrete allant de Hotel de Ville a Rambuteau, mesure 36.000000km et dure 9.722222minutes
+ 
+Cette arrete allant de Rambuteau a Arts et Metiers, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Arts et Metiers a Republique, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Republique a Goncourt, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Goncourt a Belleville, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Belleville a Pyrenees, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Pyrenees a Jourdain, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Jourdain a Place des Fetes, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Place des Fetes a Telegraphe, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Telegraphe a Porte des Lilas, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Porte des Lilas a Mairie des Lilas, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte de la Chapelle a Marx Dormoy, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Marx Dormoy a Marcadet - Poissonniers, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Marcadet - Poissonniers a Jules Joffrin, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Jules Joffrin a Lamarck - Caulaincourt, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Lamarck - Caulaincourt a Abbesses, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Abbesses a Pigalle, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Pigalle a Saint-Georges, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Saint-Georges a Notre-Dame-de-Lorette, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Notre-Dame-de-Lorette a Trinite - d'Estienne d'Orves, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Trinite - d'Estienne d'Orves a Saint-Lazare, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Saint-Lazare a Madeleine, mesure 55.000000km et dure 6.363636minutes
+ 
+Cette arrete allant de Madeleine a Concorde, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Concorde a Assemblee Nationale, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Assemblee Nationale a Solferino, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Solferino a Rue du Bac, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Rue du Bac a Sevres - Babylone, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Sevres - Babylone a Rennes, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Rennes a Notre-Dame-des-Champs, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Notre-Dame-des-Champs a Montparnasse Bienvenue, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Montparnasse Bienvenue a Falguiere, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Falguiere a Pasteur, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Pasteur a Volontaires, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Volontaires a Vaugirard, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Vaugirard a Convention, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Convention a Porte de Versailles, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Porte de Versailles a Corentin Celton, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Corentin Celton a Mairie d'Issy, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Mairie d'Issy a Corentin Celton, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Corentin Celton a Porte de Versailles, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Porte de Versailles a Convention, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Convention a Vaugirard, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Vaugirard a Volontaires, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Volontaires a Pasteur, mesure 22.000000km et dure 15.909091minutes
+ 
+Cette arrete allant de Pasteur a Falguiere, mesure 15.000000km et dure 23.333333minutes
+ 
+Cette arrete allant de Falguiere a Montparnasse Bienvenue, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Montparnasse Bienvenue a Notre-Dame-des-Champs, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Notre-Dame-des-Champs a Rennes, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Rennes a Sevres - Babylone, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Sevres - Babylone a Rue du Bac, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Rue du Bac a Solferino, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Solferino a Assemblee Nationale, mesure 11.000000km et dure 31.818182minutes
+ 
+Cette arrete allant de Assemblee Nationale a Concorde, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Concorde a Madeleine, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Madeleine a Saint-Lazare, mesure 55.000000km et dure 6.363636minutes
+ 
+Cette arrete allant de Saint-Lazare a Trinite - d'Estienne d'Orves, mesure 40.000000km et dure 8.750000minutes
+ 
+Cette arrete allant de Trinite - d'Estienne d'Orves a Notre-Dame-de-Lorette, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Notre-Dame-de-Lorette a Saint-Georges, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Saint-Georges a Pigalle, mesure 13.000000km et dure 26.923077minutes
+ 
+Cette arrete allant de Pigalle a Abbesses, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Abbesses a Lamarck - Caulaincourt, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Lamarck - Caulaincourt a Jules Joffrin, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Jules Joffrin a Marcadet - Poissonniers, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Marcadet - Poissonniers a Marx Dormoy, mesure 29.000000km et dure 12.068966minutes
+ 
+Cette arrete allant de Marx Dormoy a Porte de la Chapelle, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Basilique de Saint-Denis a Saint-Denis-Porte de Paris, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Saint-Denis-Porte de Paris a Carrefour Pleyel, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Carrefour Pleyel a Mairie de Saint-Ouen, mesure 36.000000km et dure 9.722222minutes
+ 
+Cette arrete allant de Mairie de Saint-Ouen a Garibaldi, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Garibaldi a Porte de Saint-Ouen, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Porte de Saint-Ouen a Guy Moquet, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Guy Moquet a La Fourche, mesure 35.000000km et dure 10.000000minutes
+ 
+Cette arrete allant de La Fourche a Place de Clichy, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Place de Clichy a Liege, mesure 12.000000km et dure 29.166667minutes
+ 
+Cette arrete allant de Liege a Saint-Lazare, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Saint-Lazare a Miromesnil, mesure 58.000000km et dure 6.034483minutes
+ 
+Cette arrete allant de Miromesnil a Champs elysees, Clemenceau, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Champs elysees, Clemenceau a Invalides, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Invalides a Varenne, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Varenne a Saint-Francois-Xavier, mesure 9.000000km et dure 38.888889minutes
+ 
+Cette arrete allant de Saint-Francois-Xavier a Duroc, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Duroc a Montparnasse Bienvenue, mesure 59.000000km et dure 5.932203minutes
+ 
+Cette arrete allant de Montparnasse Bienvenue a Gaite, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Gaite a Pernety, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Pernety a Plaisance, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Plaisance a Porte de Vanves, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Porte de Vanves a Malakoff-Plateau de Vanves, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Malakoff-Plateau de Vanves a Malakoff-Rue etienne Dolet, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Malakoff-Rue etienne Dolet a Chatillon-Montrouge, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Chatillon-Montrouge a Malakoff-Rue etienne Dolet, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Malakoff-Rue etienne Dolet a Malakoff-Plateau de Vanves, mesure 16.000000km et dure 21.875000minutes
+ 
+Cette arrete allant de Malakoff-Plateau de Vanves a Porte de Vanves, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Porte de Vanves a Plaisance, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Plaisance a Pernety, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Pernety a Gaite, mesure 18.000000km et dure 19.444444minutes
+ 
+Cette arrete allant de Gaite a Montparnasse Bienvenue, mesure 32.000000km et dure 10.937500minutes
+ 
+Cette arrete allant de Montparnasse Bienvenue a Duroc, mesure 59.000000km et dure 5.932203minutes
+ 
+Cette arrete allant de Duroc a Saint-Francois-Xavier, mesure 24.000000km et dure 14.583333minutes
+ 
+Cette arrete allant de Saint-Francois-Xavier a Varenne, mesure 9.000000km et dure 38.888889minutes
+ 
+Cette arrete allant de Varenne a Invalides, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Invalides a Champs elysees, Clemenceau, mesure 27.000000km et dure 12.962963minutes
+ 
+Cette arrete allant de Champs elysees, Clemenceau a Miromesnil, mesure 26.000000km et dure 13.461538minutes
+ 
+Cette arrete allant de Miromesnil a Saint-Lazare, mesure 58.000000km et dure 6.034483minutes
+ 
+Cette arrete allant de Saint-Lazare a Liege, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Liege a Place de Clichy, mesure 12.000000km et dure 29.166667minutes
+ 
+Cette arrete allant de Place de Clichy a La Fourche, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de La Fourche a Guy Moquet, mesure 35.000000km et dure 10.000000minutes
+ 
+Cette arrete allant de Guy Moquet a Porte de Saint-Ouen, mesure 31.000000km et dure 11.290323minutes
+ 
+Cette arrete allant de Porte de Saint-Ouen a Garibaldi, mesure 19.000000km et dure 18.421053minutes
+ 
+Cette arrete allant de Garibaldi a Mairie de Saint-Ouen, mesure 23.000000km et dure 15.217391minutes
+ 
+Cette arrete allant de Mairie de Saint-Ouen a Carrefour Pleyel, mesure 36.000000km et dure 9.722222minutes
+ 
+Cette arrete allant de Carrefour Pleyel a Saint-Denis-Porte de Paris, mesure 33.000000km et dure 10.606061minutes
+ 
+Cette arrete allant de Saint-Denis-Porte de Paris a Basilique de Saint-Denis, mesure 20.000000km et dure 17.500000minutes
+ 
+Cette arrete allant de Gabriel Peri, Asnieres-Gennevilliers a Mairie de Clichy, mesure 39.000000km et dure 8.974359minutes
+ 
+Cette arrete allant de Mairie de Clichy a Porte de Clichy, mesure 50.000000km et dure 7.000000minutes
+ 
+Cette arrete allant de Porte de Clichy a Brochant, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Brochant a La Fourche, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de La Fourche a Brochant, mesure 21.000000km et dure 16.666667minutes
+ 
+Cette arrete allant de Brochant a Porte de Clichy, mesure 25.000000km et dure 14.000000minutes
+ 
+Cette arrete allant de Porte de Clichy a Mairie de Clichy, mesure 50.000000km et dure 7.000000minutes
+ 
+Cette arrete allant de Mairie de Clichy a Gabriel Peri, Asnieres-Gennevilliers, mesure 39.000000km et dure 8.974359minutes
+ 
+Cette arrete allant de Saint-Lazare a Madeleine, mesure 55.000000km et dure 6.363636minutes
+ 
+Cette arrete allant de Madeleine a Pyramides, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Pyramides a Chatelet, mesure 67.000000km et dure 5.223881minutes
+ 
+Cette arrete allant de Chatelet a Gare de Lyon, mesure 159.000000km et dure 2.201258minutes
+ 
+Cette arrete allant de Gare de Lyon a Bercy, mesure 44.000000km et dure 7.954545minutes
+ 
+Cette arrete allant de Bercy a Cour Saint-emilion, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Cour Saint-emilion a Bibliotheque Francois Mitterrand, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Bibliotheque Francois Mitterrand a Cour Saint-emilion, mesure 28.000000km et dure 12.500000minutes
+ 
+Cette arrete allant de Cour Saint-emilion a Bercy, mesure 17.000000km et dure 20.588235minutes
+ 
+Cette arrete allant de Bercy a Gare de Lyon, mesure 44.000000km et dure 7.954545minutes
+ 
+Cette arrete allant de Gare de Lyon a Chatelet, mesure 159.000000km et dure 2.201258minutes
+ 
+Cette arrete allant de Chatelet a Pyramides, mesure 67.000000km et dure 5.223881minutes
+ 
+Cette arrete allant de Pyramides a Madeleine, mesure 37.000000km et dure 9.459459minutes
+ 
+Cette arrete allant de Madeleine a Saint-Lazare, mesure 55.000000km et dure 6.363636minutes
+ 

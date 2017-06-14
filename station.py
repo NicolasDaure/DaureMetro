@@ -14,7 +14,7 @@ class Station:
     	for corr in self.correspondance:
             if (corr==c):
                 found=1
-                print "Correspondance %s already added for %s" %(corr.name, c.name)
+                #print "Correspondance %s already added for %s" %(corr.name, c.name)
                 break
     	if(found==0):
     		self.correspondance.append(c)
