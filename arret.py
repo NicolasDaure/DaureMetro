@@ -7,4 +7,4 @@ class Arret:
         self.lastMetro=last
 
     def toString(self):
-    	print ("Line %s, sens %s, starting at %s and ending at %s" %(self.line, self.sens, self.firstMetro ,self.lastMetro))
+    	print ("Ligne %s, sens %s, starting at %s and ending at %s" %(self.line, self.sens, self.firstMetro ,self.lastMetro))

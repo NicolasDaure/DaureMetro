@@ -10,6 +10,19 @@ class Graphe:
         s = Station(name, x, y)
         self.stations.append(s)
 
+    def index_station(self, name):
+        index = []
+        self.counter=0
+        counter=0
+        #print "Searching for %s" %name
+        for station in self.stations:
+            if (station.name in name):
+                index.append(counter)
+            else:
+                counter=counter+1
+        return index
+
+
     def toString(self):
         print "##### GRAPHE #####"
         print " "

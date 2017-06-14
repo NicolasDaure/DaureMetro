@@ -1,3 +1,4 @@
+####1:a:Pont de Neuilly, Chateau de Vincennes
 1:a:Grande Arche de la Defense:77:465:5.30:0.39
 1:a:Esplanade de la Defense:91:461:5.31:0.41
 1:a:Pont de Neuilly:104:457:5.32:0.42
@@ -650,7 +651,7 @@
 12:a:Abbesses:308:536:5.36:0.46
 12:a:Pigalle:303:521:5.37:0.47
 12:a:Saint-Georges:300:511:5.39:0.48
-12:a:No123 Dame de Lorette:289:502:5.40:0.50
+12:a:Notre Dame de Lorette:289:502:5.40:0.50
 12:a:Trinite d'Estienne d'Orves:280:495:5.41:0.51
 12:a:Saint-Lazare:259:478:5.42:0.52
 12:a:Madeleine:258:422:5.44:0.54
@@ -897,10 +898,10 @@ B4:a:Palaiseau-Villebon
 B4:a:Palaiseau
 B4:a:Massy-Palaiseau
 B4:a:Massy-Verrieres
-B4:a:Les Bâconnets
+B4:a:Les Baconnets
 B4:a:Fontaine Michalon
 B4:a:Antony
-B4:a:Croi123e Berny
+B4:a:Croix de Berny
 B4:a:Parc de Sceaux
 B4:a:Bourg-la-Reine
 B2:a:Robinson
@@ -1322,6 +1323,7 @@ Val:b:Orly-Ouest, Aeroport d'Orly
 Val:b:Antony
 #### Correspondances à pied, sans changer de billet
 ####corr:a: Gare du Nord
+corr:a:Gare du Nord
 corr:a:La Chapelle
 corr:a:Gare du Nord
 corr:a:Poissonniere
@@ -1329,7 +1331,7 @@ corr:a:Gare du Nord
 corr:a:Magenta
 corr:a:Gare du Nord
 corr:a:La Chapelle
-####corr:b: Gare Saint Lazare 
+####corr:b:Saint-Lazare 
 corr:b:Saint-Lazare
 corr:b:Haussman, Saint-Lazare
 corr:b:Havre Caumartin
@@ -1395,4 +1397,3 @@ corr:l:Rue de la Pompe
 corr:m:La Muette
 corr:m:Boulainvilliers
 corr:m:La Muette
- 123
