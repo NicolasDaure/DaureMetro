@@ -27,7 +27,8 @@ class Station:
     	print ("Station %s at x=%d and y=%d" %(self.name , self.coordX ,self.coordY))
     	for arret in self.arret:
     		 arret.toString()
-    	print ("Correspondances of station : %s") %self.name
-    	for corr in self.correspondance:
-    		print corr.name
-    	print " "
+    	if(len(self.correspondance)!=0):
+	    	print ("Correspondances of station : %s") %self.name
+	    	for corr in self.correspondance:
+	    		print corr.name
+	   	print " "
