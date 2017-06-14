@@ -40,7 +40,10 @@ class Parser:
                         arrivee = self.g.stations[indexStation2[0]]
                         #distance de Manhattan : d(A,B)=|Xb-Xa|+|Yb-Ya|
                         #vitesse moyenne metro parisien : 21 km/h et comme v=d/dT alors dT : d/v
-                        distance = abs(arrivee.coordX-depart.coordX)+abs(arrivee.coordY-depart.coordY)
+                        if(arrivee.coordX>600 or arrivee.coordY>600 or depart.coordX>600 or depart.coordY>600):
+                            print "coords unknown"
+                        else:
+                            distance = abs(arrivee.coordX-depart.coordX)+abs(arrivee.coordY-depart.coordY)
                         #On divise par mille la distance car on ne connait pas l echelle des points geographiques et ça nous permet d avoir des temps realisables
                         duree=(21/(distance/1000))/60 #donne une duree en minutes
                         self.g.add_segment(depart, arrivee, distance, duree)
@@ -75,8 +78,8 @@ class Parser:
                     line="tmp"
                     sens="tmp"
                     name="tmp"
-                    x=0
-                    y=0
+                    x=700
+                    y=700
                     first=0
                     last=0
                     for item in list_values:
