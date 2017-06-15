@@ -1,5 +1,6 @@
 from station import *
 from segment import *
+from binheap import *
 
 class Graphe:
 
@@ -9,11 +10,25 @@ class Graphe:
 
     def add_segment(self, depart, arrivee, distance, duree):
         a = Segment(depart, arrivee, distance, duree)
-        self.arretes.append(a)
+        found=0
+        for arr in self.arretes:
+            if (arr==a):
+                found=1
+                #print "Correspondance %s already added for %s" %(corr.name, c.name)
+                break
+        if(found==0):
+             self.arretes.append(a)
 
     def add_station(self, name, x, y):
         s = Station(name, x, y)
-        self.stations.append(s)
+        found=0
+        for station in self.arretes:
+            if (station==s):
+                found=1
+                #print "Correspondance %s already added for %s" %(corr.name, c.name)
+                break
+        if(found==0):
+            self.stations.append(s)
 
     def index_station(self, name):
         index = []

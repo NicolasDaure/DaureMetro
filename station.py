@@ -11,8 +11,9 @@ class Station:
 
     def addCorrespondance(self, c):
     	found=0
+        #print "Correspondace %s added" %c
     	for corr in self.correspondance:
-            if (corr==c):
+            if (corr==c and c.name!=self.name):
                 found=1
                 #print "Correspondance %s already added for %s" %(corr.name, c.name)
                 break
@@ -21,7 +22,14 @@ class Station:
 
     def addArret(self, line, sens, first, last):
     	a=Arret(line, sens, first, last)
-    	self.arret.append(a)
+        found=0
+        for arret in self.arret:
+            if (arret==a):
+                found=1
+                #print "Correspondance %s already added for %s" %(corr.name, c.name)
+                break
+        if(found==0):
+    	    self.arret.append(a)
 
     def toString(self):
     	print ("Station %s at x=%d and y=%d" %(self.name , self.coordX ,self.coordY))

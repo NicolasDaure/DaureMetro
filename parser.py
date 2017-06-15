@@ -41,13 +41,15 @@ class Parser:
                         #distance de Manhattan : d(A,B)=|Xb-Xa|+|Yb-Ya|
                         #vitesse moyenne metro parisien : 21 km/h et comme v=d/dT alors dT : d/v
                         if(arrivee.coordX>600 or arrivee.coordY>600 or depart.coordX>600 or depart.coordY>600):
-                            print "coords unknown"
+                            None
                         else:
                             distance = abs(arrivee.coordX-depart.coordX)+abs(arrivee.coordY-depart.coordY)
                         #On divise par mille la distance car on ne connait pas l echelle des points geographiques et ça nous permet d avoir des temps realisables
                         duree=(21/(distance/1000))/60 #donne une duree en minutes
                         self.g.add_segment(depart, arrivee, distance, duree)
-
+                        for corr in depart.correspondance:
+                            if(corr.name != depart.name):
+                                self.g.add_segment(depart, corr, 0, 0)
                     name=list_values[1]
 
     def parse(self):
@@ -98,10 +100,13 @@ class Parser:
                                     #Quand on trouve une correspondance qui est differente de l'intitule on ajoute la station a l'intitule
                                     #et l'intitule a la station
                                     if(name not in name_corr):
+                                        
                                         indexIntitule = self.g.index_station(name_corr)
                                         indexStation = self.g.index_station(name)
+                                        #print "Station %s and %s" %(name, name_corr)
                                         for i in indexIntitule:
                                             for j in indexStation:
+                                                #print "Added %s to %s" %(self.g.stations[j],self.g.stations[i])
                                                 self.g.stations[i].addCorrespondance(self.g.stations[j])
                                         #print "Correspondance for %s added" %name_corr
                                         for i in indexStation:
@@ -178,6 +183,6 @@ if __name__ == '__main__':
     p.parse()
     #p.g.toString()
     p.calculArrete()
-    p.g.all_segment()
+    #p.g.all_segment()
 
 

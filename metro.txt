@@ -1,4 +1,4 @@
-####1:a:Pont de Neuilly, Chateau de Vincennes
+####1:a:La Defense, Chateau de Vincennes
 1:a:La Defense:77:465:5.30:0.39
 1:a:Esplanade de la Defense:91:461:5.31:0.41
 1:a:Pont de Neuilly:104:457:5.32:0.42
@@ -24,7 +24,7 @@
 1:a:Saint-Mande, Tourelle:511:336:5.56:1.12
 1:a:Berault:532:329:5.57:1.13
 1:a:Chateau de Vincennes:547:324:5.59:1.15
-####1:b:Chateau de Vincennes, Pont de Neuilly
+####1:b:Chateau de Vincennes, La Defense
 1:b:Chateau de Vincennes:547:324:5.30:0.39
 1:b:Berault:532:329:5.31:0.40
 1:b:Saint-Mande, Tourelle:511:336:5.32:0.42
@@ -1320,7 +1320,7 @@ Val:b:Orly-Sud
 Val:b:Orly-Ouest, Aeroport d'Orly
 Val:b:Antony
 #### Correspondances à pied, sans changer de billet
-####corr:a: Gare du Nord
+####corr:a:Gare du Nord
 corr:a:Gare du Nord
 corr:a:La Chapelle
 corr:a:Gare du Nord
@@ -1329,35 +1329,35 @@ corr:a:Gare du Nord
 corr:a:Magenta
 corr:a:Gare du Nord
 corr:a:La Chapelle
-####corr:b:Saint-Lazare 
+####corr:b:Saint-Lazare
 corr:b:Saint-Lazare
-corr:b:Haussman, Saint-Lazare
+corr:b:Haussmann, Saint-Lazare
 corr:b:Havre - Caumartin
 corr:b:Auber
 corr:b:Opera
 corr:b:Auber
 corr:b:Havre - Caumartin
-corr:b:Haussman, Saint-Lazare
+corr:b:Haussmann, Saint-Lazare
 corr:b:Saint-Lazare
 corr:b:Saint-Augustin
 corr:b:Saint-Lazare
-####corr:c: Gare de l'Est
+####corr:c:Gare de l'Est
 corr:c:Gare de l'Est
 corr:c:Chateau-Landon
 corr:c:Gare de l'Est
-####corr:d: Chatelet Les Halles
+####corr:d:Chatelet Les Halles
 corr:d:Les Halles
 corr:d:Chatelet Les Halles
 corr:d:Chatelet
 corr:d:Chatelet Les Halles
 corr:d:Les Halles
-####corr:e: Saint-Michel
+####corr:e:Saint-Michel
 corr:e:Saint-Michel
 corr:e:Saint-Michel, Notre Dame
 corr:e:Cluny - La Sorbonne
 corr:e:Saint-Michel, Notre Dame
 corr:e:Saint-Michel
-####corr:f: Gare de Lyon
+####corr:f:Gare de Lyon
 corr:f:Quai de la Rapee
 corr:f:Gare de Lyon
 corr:f:Gare d'Austerlitz
@@ -1365,33 +1365,33 @@ corr:f:Gare de Lyon
 corr:f:Bercy
 corr:f:Gare de Lyon
 corr:f:Quai de la Rapee
-####corr:g: Tour Eiffel
+####corr:g:Champ de Mars, Tour Eiffel
 corr:g:Bir-Hakeim
 corr:g:Champ de Mars, Tour Eiffel
 corr:g:Bir-Hakeim
-####corr:h: Musee d'Orsay 
+####corr:h:Musee d'Orsay
 corr:h:Assemblee Nationale
 corr:h:Musee d'Orsay
 corr:h:Solferino
 corr:h:Musee d'Orsay
 corr:h:Assemblee Nationale
-####corr:i: Pont de l'Alma
+####corr:i:Pont de l'Alma
 corr:i:Pont de l'Alma
 corr:i:Alma - Marceau
 corr:i:Pont de l'Alma
-####corr:j: Porte Dauphine 
+####corr:j:Porte Dauphine
 corr:j:Porte Dauphine
 corr:j:Avenue Foch
 corr:j:Porte Dauphine
-####corr:k: Balard 
+####corr:k:Balard
 corr:k:Balard
 corr:k:Boulevard Victor
 corr:k:Balard
-####corr:l: Rue de la Pompe 
+####corr:l:Rue de la Pompe
 corr:l:Rue de la Pompe
 corr:l:Avenue Henri Martin
 corr:l:Rue de la Pompe
-####corr:m: La Muette
+####corr:m:La Muette
 corr:m:La Muette
 corr:m:Boulainvilliers
 corr:m:La Muette
