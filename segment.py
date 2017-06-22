@@ -8,4 +8,4 @@ class Segment:
 
     def toString(self):
     	print ("Cette arrete allant de %s a %s, mesure %fkm et dure %fminutes" %(self.stationDepart.name, self.stationArrivee.name, self.coutDist, self.coutDuree))
-    	print " "
+    	print ("")

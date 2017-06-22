@@ -6,25 +6,25 @@ class Graphe:
 
     def __init__(self):
         self.stations = []    # creates a new empty list for each station
-        self.arretes=[]
+        self.arretes = []
 
     def add_segment(self, depart, arrivee, distance, duree):
         a = Segment(depart, arrivee, distance, duree)
-        found=0
+        found = 0
         for arr in self.arretes:
-            if (arr==a):
-                found=1
+            if (arr == a):
+                found = 1
                 #print "Correspondance %s already added for %s" %(corr.name, c.name)
                 break
-        if(found==0):
+        if(found == 0):
              self.arretes.append(a)
 
     def add_station(self, name, x, y):
         s = Station(name, x, y)
-        found=0
+        found = 0
         for station in self.arretes:
             if (station==s):
-                found=1
+                found = 1
                 #print "Correspondance %s already added for %s" %(corr.name, c.name)
                 break
         if(found==0):
@@ -32,8 +32,8 @@ class Graphe:
 
     def index_station(self, name):
         index = []
-        self.counter=0
-        counter=0
+        self.counter = 0
+        counter = 0
         #print "Searching for %s" %name
         for station in self.stations:
             if (name == station.name):
@@ -45,7 +45,7 @@ class Graphe:
 
     def all_station(self):
         for station in self.stations:
-            print "Station %s at %d.%d" %(station.name,station.coordX,station.coordY)
+            print ("Station %s at %d.%d" %(station.name,station.coordX,station.coordY))
 
     def all_segment(self):
         for segment in self.arretes:
@@ -53,13 +53,13 @@ class Graphe:
 
     def testIndex(self, i):
         for j in i : 
-            print "Station %s at %d.%d" %(self.stations[j].name,self.stations[j].coordX,self.stations[j].coordY)
+            print ("Station %s at %d.%d" %(self.stations[j].name,self.stations[j].coordX,self.stations[j].coordY))
 
 
     def toString(self):
-        print "##### GRAPHE #####"
-        print " "
-        print "@@@@@ STATION @@@@@"
+        print ("##### GRAPHE #####")
+        print ("")
+        print ("@@@@@ STATION @@@@@")
         for station in self.stations:
             station.toString()
-        print " "
+        print ("")
