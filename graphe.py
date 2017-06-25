@@ -26,7 +26,7 @@ class Graphe:
         stationToAdd = Station(name, x, y)
         found = 0
         for station in self.stations:
-            if (stationToAdd.name == station.):
+            if (station.name == stationToAdd.name and station.coordX == stationToAdd.coordX and station.coordY == stationToAdd.coordY):
                 found = 1
                 #print "Correspondance %s already added for %s" %(corr.name, c.name)
                 break
@@ -49,12 +49,12 @@ class Graphe:
 
         return index
 
-    def all_station(self):
+    def allStationToString(self):
         for station in self.stations:
-            print ("Station %s at %d.%d" %(station.name,station.coordX,station.coordY))
+            print ("Station [%s] at (%d;%d)" %(station.name,station.coordX,station.coordY))
 
-    def all_segment(self):
-        for segment in self.arretes:
+    def allSegmentToString(self):
+        for segment in self.segments:
             segment.toString()
 
     def testIndex(self, i):

@@ -4,6 +4,7 @@ a = Test()
 a.toString()
 
 b = Test()
-b.toString()
 
-print (a==a)
+a.idTest = 1
+
+a.toString()

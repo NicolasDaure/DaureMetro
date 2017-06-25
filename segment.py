@@ -15,4 +15,3 @@ class Segment:
 
     def toString(self):
     	print ("L%: %s -> %s (D=%f km, T=%f min)" %(self.numLigne, self.stationDepart.name, self.stationArrivee.name, self.coutDist, self.coutDuree))
-   	

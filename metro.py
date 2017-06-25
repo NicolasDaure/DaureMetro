@@ -3,7 +3,7 @@ globCount = 0
 class Test:
 
 	def __init__(self):
-		self.idTest = 1
+		self.idTest = None
 		# global globCount
 		# globCount += 1
 
