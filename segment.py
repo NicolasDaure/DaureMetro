@@ -1,11 +1,18 @@
+# globIdAssigner = 0 # Créateur d'identifiants de segments
+
 class Segment:
 
-    def __init__(self, depart, arrivee, distance, duree):
-        self.stationDepart=depart
-        self.stationArrivee=arrivee
-        self.coutDist=distance
-        self.coutDuree=duree
+    def __init__(self, line, depart, arrivee, distance, duree):
+    	# self.idSegment = globIdAssigner
+    	# global globIdAssigner
+    	# globIdAssigner += 1
+
+    	self.numLigne = line #num de la ligne courante 
+        self.stationDepart = depart #obj Station
+        self.stationArrivee = arrivee #obj Station
+        self.coutDist = distance
+        self.coutDuree = duree
 
     def toString(self):
-    	print ("Cette arrete allant de %s a %s, mesure %fkm et dure %fminutes" %(self.stationDepart.name, self.stationArrivee.name, self.coutDist, self.coutDuree))
-    	print ("")
+    	print ("L%: %s -> %s (D=%f km, T=%f min)" %(self.numLigne, self.stationDepart.name, self.stationArrivee.name, self.coutDist, self.coutDuree))
+   	

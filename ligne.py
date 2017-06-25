@@ -4,4 +4,4 @@ class Ligne:
         self.id = numero
 
     def toString(self):
-        print ("Line number : %d" %self.id)
+        print ("ID Ligne : %d" %self.id)

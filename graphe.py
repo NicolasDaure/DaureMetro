@@ -5,29 +5,33 @@ from binheap import *
 class Graphe:
 
     def __init__(self):
-        self.stations = []    # creates a new empty list for each station
-        self.arretes = []
+        '''Constructeur du graphe soit un ensemble d'arretes et noeuds'''
+        self.stations = [] #Liste des stations
+        self.segments = []  #Liste des arretes
 
-    def add_segment(self, depart, arrivee, distance, duree):
-        a = Segment(depart, arrivee, distance, duree)
+    def addSegment(line, depart, arrivee, distance, duree):
+        '''Ajoute un segment'''
+        segToAdd = Segment(line, depart, arrivee, distance, duree)
         found = 0
-        for arr in self.arretes:
-            if (arr == a):
+        for segment in self.segments:
+            if (segment.stationDepart == segToAdd.stationDepart and segment.stationArrivee == segToAdd.stationArrivee and segment.numLigne == segToAdd.numLigne):
                 found = 1
-                #print "Correspondance %s already added for %s" %(corr.name, c.name)
+                #print "%s>%s already added" %(segToAdd.depart, segToAdd.arrivee)
                 break
+
         if(found == 0):
-             self.arretes.append(a)
+             self.segments.append(segToAdd)
 
-    def add_station(self, name, x, y):
-        s = Station(name, x, y)
+    def addStation(self, name, x, y): #Ajout à la liste des stations du graphe
+        stationToAdd = Station(name, x, y)
         found = 0
-        for station in self.arretes:
-            if (station==s):
+        for station in self.stations:
+            if (stationToAdd.name == station.):
                 found = 1
                 #print "Correspondance %s already added for %s" %(corr.name, c.name)
                 break
-        if(found==0):
+
+        if(found == 0):
             self.stations.append(s)
 
     def index_station(self, name):
@@ -39,8 +43,10 @@ class Graphe:
             if (name == station.name):
                 #print "Station found %s at %d:%d(searched %s)" %(station.name, station.coordX, station.coordY, name)
                 index.append(counter)
+
             else:
-                counter=counter+1
+                counter += 1
+
         return index
 
     def all_station(self):
@@ -55,11 +61,17 @@ class Graphe:
         for j in i : 
             print ("Station %s at %d.%d" %(self.stations[j].name,self.stations[j].coordX,self.stations[j].coordY))
 
-
     def toString(self):
-        print ("##### GRAPHE #####")
+        print ("########## GRAPHE ##########")
         print ("")
-        print ("@@@@@ STATION @@@@@")
+        print ("@@@@@ STATIONS @@@@@")
+
         for station in self.stations:
             station.toString()
+
+        print ("----- ARRETES ------")
+
+        for arrete in self.arretes:
+            arrete.toString()
+
         print ("")

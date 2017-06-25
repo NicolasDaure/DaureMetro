@@ -5,6 +5,6 @@ class Arret:
         self.sens = sens
         self.firstMetro = first
         self.lastMetro = last
-    
-    def toString():
-        print ("Ligne %s, sens %s, starting at %s and ending at %s" %(self.line, self.sens, self.firstMetro ,self.lastMetro))
+
+    def toString(self):
+        print ("Ligne %s - sens %s - Deb= %s - Fin=  %s" %(self.line, self.sens, self.firstMetro ,self.lastMetro))
