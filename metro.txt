@@ -612,7 +612,7 @@
 10:b:Porte d'Auteuil:105:336:5.53:0.52
 10:b:Boulogne - Jean Jaures:79:316:5.56:0.55
 10:b:Boulogne - Pont de Saint-Cloud:67:307:5.59:0.58
-#### 11:a:Mairie des Lilas, Chatelet
+####11:a:Mairie des Lilas, Chatelet
 11:a:Mairie des Lilas:518:474:5.30:1.00
 11:a:Porte des Lilas:498:474:5.31:1.01
 11:a:Telegraphe:476:480:5.32:1.03
@@ -1072,7 +1072,8 @@ C8:a:Longjumeau
 C8:a:Massy-Palaiseau
 C8:a:Igny
 C8:a:Bievres
-C8:a:Vauboyen123:a:Jouy-en-Josas
+C8:a:Vauboyen
+C8:a:Jouy-en-Josas
 C8:a:Petit Jouy, Les Loges
 C8:a:Versaille-Chantiers
 ####C:b:Rungis, Dourdan, Etampes, Saint Quentin

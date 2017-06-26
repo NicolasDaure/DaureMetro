@@ -10,7 +10,7 @@ class Graphe:
         self.segments = []  #Liste des arretes
 
     def addSegment(line, depart, arrivee, distance, duree):
-        '''Ajoute un segment'''
+        '''Ajoute un segment à la liste de segments'''
         segToAdd = Segment(line, depart, arrivee, distance, duree)
         found = 0
         for segment in self.segments:
@@ -22,7 +22,8 @@ class Graphe:
         if(found == 0):
              self.segments.append(segToAdd)
 
-    def addStation(self, name, x, y): #Ajout à la liste des stations du graphe
+    def addStation(self, name, x, y):
+        '''Ajoute une station à la liste de stations'''
         stationToAdd = Station(name, x, y)
         found = 0
         for station in self.stations:
@@ -32,22 +33,22 @@ class Graphe:
                 break
 
         if(found == 0):
-            self.stations.append(s)
+            self.stations.append(stationToAdd)
 
-    def index_station(self, name):
-        index = []
-        self.counter = 0
+    def index_station(self, name, X, Y):
+        '''Retourne l'index de la station dont on a les paramètres'''
         counter = 0
+        found = False #Pour ne pas tout parcourir si la station est trouvée
         #print "Searching for %s" %name
-        for station in self.stations:
-            if (name == station.name):
+        while found == False and  counter < len(self.stations):
+            if (station.name == name and station.coordX == X and station.coordY = Y and found == 0):
                 #print "Station found %s at %d:%d(searched %s)" %(station.name, station.coordX, station.coordY, name)
-                index.append(counter)
+                found = True
 
             else:
                 counter += 1
 
-        return index
+        return counter
 
     def allStationToString(self):
         for station in self.stations:

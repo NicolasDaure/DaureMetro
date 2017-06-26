@@ -8,11 +8,11 @@ class Station:
         self.coordX = x # (X)
         self.coordY = y # (Y)
         self.segmentsSuiv = [] #Segments suivants
-        self.aPiedSuiv = [] #Segments suivants à pied (à développer)
+        self.aPiedSuiv = [] #Segments suivants a pied (a developper)
 
 
     def addSuivant(self, line, sens, first, last, distance, duree):
-        '''Ajoute un segment dont la station courante est le départ'''
+        '''Ajoute un segment dont la station courante est le depart'''
         segToAdd = Segment(line, depart, arrivee, distance, duree)
         found = 0
 
@@ -27,7 +27,7 @@ class Station:
 
 
     def addAPiedSuivant(self, line, sens, first, last, distance, duree):
-        '''Ajoute une correspondance à pied à la station (inutile pour le moment)'''
+        '''Ajoute une correspondance a pied a la station (inutile pour le moment)'''
         segToAdd = Segment(line, depart, arrivee, distance, duree)
         found = 0
 
@@ -43,13 +43,20 @@ class Station:
 
     def toString(self):
         print("Station [%s] at (x = %d; y = %d)") %(self.name , self.coordX ,self.coordY)
-        print("Segments accessibles depuis [%s] :") %(self.name)
-        for segments in self.segmentsSuiv:
-            segments.toString() #Segment
+        if(len(self.segmentsSuiv) != 0):
+            print("Segments accessibles depuis [%s] :") %(self.name)
+            for segments in self.segmentsSuiv:
+                segments.toString() #Segment
 
-        if(len(self.correspondance) != 0): #Affichage des correspondances accessibles en marchant
+        if(len(self.aPiedSuiv) != 0): #Affichage des correspondances accessibles en marchant
             print ("Correspondances of station : %s") %self.name
             for corr in self.aPiedSuiv:
                 corr.toString() #Segment
 
         print ("")
+
+
+if __name__ == "__main__":
+
+    s1 = Station("La Defense", 77, 465)
+    s1.toString()
