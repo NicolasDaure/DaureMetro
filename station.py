@@ -8,7 +8,7 @@ class Station:
         self.coordX = x # (X)
         self.coordY = y # (Y)
         self.segmentsSuiv = [] #Segments suivants
-        self.aPiedSuiv = [] #Segments suivants a pied (a developper)
+        # self.aPiedSuiv = [] #Segments suivants a pied (a developper)
 
 
     def addSuivant(self, line, sens, first, last, distance, duree):
@@ -26,19 +26,19 @@ class Station:
             self.arret.append(segToAdd)
 
 
-    def addAPiedSuivant(self, line, sens, first, last, distance, duree):
-        '''Ajoute une correspondance a pied a la station (inutile pour le moment)'''
-        segToAdd = Segment(line, depart, arrivee, distance, duree)
-        found = 0
+    # def addAPiedSuivant(self, line, sens, first, last, distance, duree):
+    #     '''Ajoute une correspondance a pied a la station (inutile pour le moment)'''
+    #     segToAdd = Segment(line, depart, arrivee, distance, duree)
+    #     found = 0
 
-        for corr in self.aPiedSuiv:
-            if (corr == c and c.name != self.name):
-                found = 1
-                #print "%s>%s already added" %(segToAdd.depart, segToAdd.arrivee)
-                break
+    #     for corr in self.aPiedSuiv:
+    #         if (corr == c and c.name != self.name):
+    #             found = 1
+    #             #print "%s>%s already added" %(segToAdd.depart, segToAdd.arrivee)
+    #             break
 
-        if(found == 0):
-            self.aPiedSuiv.append(segToAdd)
+    #     if(found == 0):
+    #         self.aPiedSuiv.append(segToAdd)
 
 
     def toString(self):
@@ -48,10 +48,10 @@ class Station:
             for segments in self.segmentsSuiv:
                 segments.toString() #Segment
 
-        if(len(self.aPiedSuiv) != 0): #Affichage des correspondances accessibles en marchant
-            print ("Correspondances of station : %s") %self.name
-            for corr in self.aPiedSuiv:
-                corr.toString() #Segment
+        # if(len(self.aPiedSuiv) != 0): #Affichage des correspondances accessibles en marchant
+        #     print ("Correspondances of station : %s") %self.name
+        #     for corr in self.aPiedSuiv:
+        #         corr.toString() #Segment
 
         print ("")
 
