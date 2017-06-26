@@ -781,7 +781,6 @@
 #### funi: Funiculaire de Montmartre
 funi:a:Montmartre bas:314:531
 funi:a:Montmartre haut:313:539
-funi:b:Montmartre haut:313:539
 funi:b:Montmartre bas:314:531
 #### A:a:Saint Germain en Laye, Boissy Saint Leger
 A1:a:Saint Germain en Laye
@@ -1396,3 +1395,4 @@ corr:l:Rue de la Pompe
 corr:m:La Muette
 corr:m:Boulainvilliers
 corr:m:La Muette
+###END
