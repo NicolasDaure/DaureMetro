@@ -18,6 +18,9 @@ class Segment:
         self.coutDist = 0 #computeDistance(self.stationDepart, self.StationArrivee)
         self.coutDuree = 0
 
+    def toString(self):
+    	print("L%s: %s -> %s (D=%f km, T=%f)" %(self.numLigne, self.stationDepart.name, self.stationArrivee.name, self.coutDist, self.coutDuree))
+
     def setDistance(self):
     	'''Attribue la distance entre les deux points du segment'''
     	deltaX = self.stationDepart.coordX - self.stationArrivee.coordX
@@ -46,8 +49,6 @@ class Segment:
     	
     	return V
 
-   	def toString(self):
-		print ("L%s: %s -> %s (D=%f km, T=%f)" %(self.numLigne, self.stationDepart.name, self.stationArrivee.name, self.coutDist, self.coutDuree))
 
 if __name__ == "__main__":
 
@@ -55,8 +56,10 @@ if __name__ == "__main__":
 	s1.toString()
 	s2 = Station("Vavin", 282, 300)
 	s2.toString()
+	
 	seg = Segment("4", s1, s2)
+	print(type(seg))
 	seg.setDistance()
 	seg.setDureeMetro(0.49, 0.50)
 	seg.toString()
-	print("Vmetro = %f") %(seg.coutDist/seg.coutDuree)
+	#print("Vmetro = %f") %(seg.coutDist/seg.coutDuree)

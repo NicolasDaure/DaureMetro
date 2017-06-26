@@ -1,7 +1,9 @@
 from metro import *
+import math
 
-a = [11,22,33,44,55,66]
+a = "4.33"
 
-for i in range(0, len()):
-	if(i > 0):
-		print(a[i - 1])
+a = float(a)
+
+print(a)
+print((a - math.floor(a)) * 100 * 60 + 3600 * math.floor(a) )

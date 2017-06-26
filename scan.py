@@ -2,6 +2,7 @@
 
 from graphe import *
 import sys
+import math
 
 class Scanner:
 
@@ -62,9 +63,10 @@ class Scanner:
 				if "###" not in lignes[i] and "###" not in lignes[i - 1]: 
 
 					list_values_prec = lignes[i - 1].split(":") #LIGNE PRECEDENTE
-					list_values = lignes[i].split(":") # LIGNE COURANTE
+					list_values = lignes[i].split(":") #LIGNE COURANTE
+					longueurPrec = len(list_values_prec)
+					longueurCourant = len(list_values)
 
-					counter = 0
 					line, depart, arrivee = None, None, None
 					nameDep, nameArr = None, None
 					coordXDep, coordXArr = None, None
@@ -72,66 +74,66 @@ class Scanner:
 					tpsDep, tpsArr = None, None
 
 					#Scan des elements d'une ligne 
-					for item in list_values: #Tuple de la ligne courante
-						if(item != '\n'):
-							if(counter == 1): #Recuperation de la ligne de metro
-								line = item ###### 1
-								counter += 1
+					if(longueurPrec == longueurCourant):
+						for item in range(0, longueurCourant - 1): #Tuple de la ligne courante
+							if(item != '\n'):
+								if(item == 0): #Recuperation de la ligne de metro
+									line = list_values[item] ###### 1 variable globale assignée
+									# if("corr" in line):
+									# 	print(line)
+										
 
-							if(counter == 3): # Recuperation des noms des stations concernees
-								nameDep = list_values_prec[counter] #Station precedente
-								nameArr = list_values[counter] #Station courante
-								counter += 1
+								elif(item == 2): # Recuperation des noms des stations concernees
+									if("corr" in line):
+										print(line)
+									nameDep = list_values_prec[item] #Station precedente
+									nameArr = list_values[item] #Station courante
+									
 
-								if "coor" in line: #Cas des correspondances a pied. On neglige les stations eponymes aux coord differentes
-									indexStationDep = index_station_grossier(nameDep) #Station precedente
-									indexStationArr = index_station_grossier(nameArr) #Station courante
+									if(line == "corr"): #Cas des correspondances a pied. On neglige les stations eponymes aux coord differentes
+										print("||| Corr. to add found")
+										indexStationDep = self.g.index_station_grossier(nameDep) #Station precedente
+										indexStationArr = self.g.index_station_grossier(nameArr) #Station courante
 
-									if(indexStationDep != -1 and indexStationArr != -1): # On check que les stations existent et on les reupere
+										if(indexStationDep != -1 and indexStationArr != -1): # On check que les stations existent et on les recupere
+											depart = self.g.stations[indexStationDep] ###### 2 -
+											arrivee = self.g.stations[indexStationArr] ###### 3 -
+												
+											self.g.addSegment(line, depart, arrivee, None, None)################# Creation corr				
+
+								elif(item == 3): #Coord X cas funi et triviaux ON NE RENTRE PAS POUR LES CAS SANS COORDONNEES car counter jamais 4
+									coordXDep = float(list_values_prec[item])
+									coordXArr = float(list_values[item])
+									
+									
+								elif(item == 4):
+									coordYDep = float(list_values_prec[item])
+									coordYArr = float(list_values[item])
+										
+									if "funi" in line:
+										print("|| Funi. to add found")
+										indexStationDep = self.g.index_station_exact(nameDep, coordXDep, coordYDep) #Station precedente
+										indexStationArr = self.g.index_station_exact(nameArr, coordXArr, coordYArr) #Station courante
+
+										if(indexStationDep != -1 and indexStationArr != -1):
+											depart = self.g.stations[indexStationDep] ###### 2
+											arrivee = self.g.stations[indexStationArr] ###### 3
+											self.g.addSegment(line, depart, arrivee, None, None)################ Creation funi
+
+								elif(item == 5):
+									tpsDep = float(list_values_prec[item])
+									tpsArr = float(list_values[item])
+									tpsDep = math.floor(tpsDep) * 3600 + (tpsDep - math.floor(tpsDep)) * 100 * 60 #Conversion en secondes
+									tpsArr = math.floor(tpsArr) * 3600 + (tpsArr - math.floor(tpsArr)) * 100 * 60
+
+									indexStationDep = self.g.index_station_exact(nameDep, coordXDep, coordYDep) #Station precedente
+									indexStationArr = self.g.index_station_exact(nameArr, coordXArr, coordYArr)
+
+									if(indexStationDep != -1 and indexStationArr != -1):
 										depart = self.g.stations[indexStationDep] ###### 2
 										arrivee = self.g.stations[indexStationArr] ###### 3
-										tmp = Segment(line, depart, arrivee) #Pas d'horaire dans le cas a pied (calcule separement)
-										tmp.setDistance()
-										tmp.setDureeAPied() #L'objet est integre a ce stade
-										print("| Walking correspondance created")	
-										self.g.addSegment()						
+										self.g.addSegment(line, depart, arrivee, tpsDep, tpsArr)############### Creation segment trivial
 
-							if(counter == 4): #Coord X cas funi et triviaux ON NE RENTRE PAS POUR LES CAS SANS COORDONNEES car counter jamais 4
-								coordXDep = float(list_values_prec[counter])
-								coordXArr = float(list_values[counter])
-								counter += 1
-
-							if(counter == 5): #Coord Y cas funi et triviaux
-								coordYDep = float(list_values_prec[counter])
-								coordYArr = float(list_values[counter])
-								counter += 1
-
-								#Derniere iteration on effectue l'affectation si possible
-								indexStationDep = index_station_exact(nameArr, coordXDep, coordYDep) #Station precedente
-								indexStationArr = index_station_exact(nameArr, coordXArr, coordYArr) #Station courante
-
-								if(indexStationDep != -1 and indexStationArr != -1):
-									depart = self.g.stations[indexStationDep] ###### 2
-									arrivee = self.g.stations[indexStationArr] ###### 3
-									
-									if "funi" in line:
-										tmp = Segment(line, depart, arrivee)
-										tmp.setDistance()
-										tmp.setDureeFuni() #Objet integre a ce stade
-										print("|| Funicular segment created")
-
-							if(counter == 6):
-									tpsDep = list_values_prec[count]
-									tpsArr = list_values[count]
-
-									tmp = Segment(line, depart, arrivee)
-									tmp.setDistance()
-									tmp.setDureeMetro(tpsDep, tpsArr) #Objet integre a ce stade
-									print("| Segment created")
-
-
-							else:
-								counter += 1
 
 
 
@@ -139,8 +141,9 @@ if __name__ == "__main__":
 
 	s = Scanner()
 	s.parseStations()
-	s.g.allStationToString()
+	#s.g.allStationToString()
 	
+	s.parseSegments()
 
 
 

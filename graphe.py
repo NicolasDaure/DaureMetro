@@ -9,7 +9,7 @@ class Graphe:
         self.stations = [] #Liste des stations
         self.segments = []  #Liste des arretes
 
-    def addSegment(self, line, depart, arrivee, distance, duree):
+    def addSegment(self, line, depart, arrivee, timeDep, timeArr):
         '''Ajoute un segment a la liste de segments'''
         segToAdd = Segment(line, depart, arrivee)
         found = 0
@@ -20,10 +20,20 @@ class Graphe:
                 break
 
         if(found == 0):
-            segToAdd.coutDist = distance
-            segToAdd.coutDuree = duree
+            segToAdd.setDistance()
+
+            if "corr" in segToAdd.numLigne:
+                segToAdd.setDureeAPied()
+                #print("||| Correspondance segment created")
+            elif "funi" in segToAdd.numLigne:
+                segToAdd.setDureeFuni()
+                #print("|| Funicular segment created")
+            else:
+                segToAdd.setDureeMetro(timeDep, timeArr)
+                #print("| Segment created")
+
             self.segments.append(segToAdd)
-            print("-----[%s>%s] added to graphe") %(segToAdd.depart.name, segToAdd.arrivee.name)
+            #print("-----[%s>%s] added to graphe") %(segToAdd.stationDepart.name, segToAdd.stationArrivee.name)
 
     def addStation(self, name, x, y):
         '''Ajoute une station a la liste de stations'''
@@ -45,7 +55,7 @@ class Graphe:
         found = False #Pour ne pas tout parcourir si la station est trouvee
         #print "Searching for %s" %name
         while found == False and  counter < len(self.stations):
-            if (station.name == name):
+            if (self.stations[counter].name == name):
                 #print "Station found %s at %d:%d(searched %s)" %(station.name, station.coordX, station.coordY, name)
                 found = True
                 index = counter
@@ -62,7 +72,7 @@ class Graphe:
         found = False #Pour ne pas tout parcourir si la station est trouvee
         #print "Searching for %s" %name
         while found == False and  counter < len(self.stations):
-            if (station.name == name and station.coordX == X and station.coordY == Y and found == 0):
+            if (self.stations[counter].name == name and self.stations[counter].coordX == X and self.stations[counter].coordY == Y):
                 #print "Station found %s at %d:%d(searched %s)" %(station.name, station.coordX, station.coordY, name)
                 found = True
                 index = counter

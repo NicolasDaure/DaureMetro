@@ -30,13 +30,6 @@ class Station:
             for segments in self.segmentsSuiv:
                 segments.toString() #Segment
 
-        # if(len(self.aPiedSuiv) != 0): #Affichage des correspondances accessibles en marchant
-        #     print ("Correspondances of station : %s") %self.name
-        #     for corr in self.aPiedSuiv:
-        #         corr.toString() #Segment
-
-        print ("")
-
 
 if __name__ == "__main__":
 
