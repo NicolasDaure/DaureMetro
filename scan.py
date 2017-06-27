@@ -122,24 +122,25 @@ class Scanner:
 								depart = self.g.stations[indexStationDep] ###### 2
 								arrivee = self.g.stations[indexStationArr] ###### 3
 								self.g.addSegment(line, depart, arrivee, tpsDep, tpsArr)############### Creation segment trivial
-
-
-
+	
+	def linkEponymStations(self):
+		for station1 in self.g.stations:
+			for station2 in self.g.stations:
+				if(station1.name == station2.name and station1.coordX != station2.coordX and station1.coordY != station2.coordY):
+					print("%s>>>%s") %(station1.name, station2.name)
+					self.g.addSegment("corr", station1, station2, None, None)
+    
 
 if __name__ == "__main__":
 
 	s = Scanner()
 	s.parseStations()
 	#s.g.allStationsToString()
-	
 	s.parseSegments()
 	#s.g.allSegmentsToString()
+	s.linkEponymStations()
+	s.g.linkSegmentsToStations()
 
-
-	print("Stations = %f" %(nbSta))
-	print("Voyage = %f" %(nbSeg))
-	print("Corres = %f" %(nbCorr))
-	print("Funi = %f" %(nbFuni))
 
 
 
