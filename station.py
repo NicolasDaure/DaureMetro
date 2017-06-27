@@ -26,7 +26,7 @@ class Station:
     def toString(self):
         print("Station [%s] at (x = %d; y = %d)") %(self.name , self.coordX ,self.coordY)
         if(len(self.segmentsSuiv) != 0):
-            print("Segments accessibles depuis [%s] :") %(self.name)
+            print("| Segments accessibles depuis [%s] :") %(self.name)
             for segments in self.segmentsSuiv:
                 segments.toString() #Segment
 

@@ -16,7 +16,7 @@ class Graphe:
         for segment in self.segments:
             if (segment.stationDepart == segToAdd.stationDepart and segment.stationArrivee == segToAdd.stationArrivee and segment.numLigne == segToAdd.numLigne):
                 found = 1
-                print ("------!!!- [%s>%s] already added -!!!------") %(segToAdd.stationDepart.name, segToAdd.stationArrivee.name)
+                #print ("------!!!- [%s>%s] already added -!!!------") %(segToAdd.stationDepart.name, segToAdd.stationArrivee.name)
                 break
 
         if(found == 0):
@@ -24,19 +24,19 @@ class Graphe:
             
             if "corr" in segToAdd.numLigne:
                 segToAdd.setDureeAPied()
-                print("||| Correspondance segment created")
+                # print("||| Correspondance segment created")
 
             elif "funi" in segToAdd.numLigne:
                 segToAdd.setDureeFuni()
-                print("|| Funicular segment created")
+                # print("|| Funicular segment created")
 
             elif timeDep == None and timeArr == None:
                 segToAdd.setDureeRER()
-                print("| Segment RER created")
+                # print("| Segment RER created")
 
             else:
                 segToAdd.setDureeMetro(timeDep, timeArr)
-                print("| Segment metro created")
+                # print("| Segment metro created")
 
 
             self.segments.append(segToAdd)
@@ -60,7 +60,7 @@ class Graphe:
             for segment in self.segments: #On balaye tous les segments du graphe
                 if(segment.stationDepart == station): #Si la station de depart du segment correspond a la station courante
                     station.segmentsSuiv.append(segment) #On l'ajoute a la liste des segments partants de la station
-                    print("Segment added to [%s]") %(station.name)
+                    #print("Segment added to [%s]") %(station.name)
 
     def index_station_grossier(self, name):
         '''Si la station est dans stations retourne son index, -1 sinon'''
@@ -109,7 +109,8 @@ class Graphe:
 
     def allStationsToString(self):
         for station in self.stations:
-            print ("Station [%s] at (%d;%d)" %(station.name,station.coordX,station.coordY))
+            print("@@@@@@@@@@@@@@@@@@@@@@@")
+            station.toString()
 
     def allSegmentsToString(self):
         for segment in self.segments:

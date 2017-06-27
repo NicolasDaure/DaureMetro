@@ -127,7 +127,7 @@ class Scanner:
 		for station1 in self.g.stations:
 			for station2 in self.g.stations:
 				if(station1.name == station2.name and station1.coordX != station2.coordX and station1.coordY != station2.coordY):
-					print("%s>>>%s") %(station1.name, station2.name)
+					# print("%s>>>%s") %(station1.name, station2.name)
 					self.g.addSegment("corr", station1, station2, None, None)
     
 
@@ -140,6 +140,7 @@ if __name__ == "__main__":
 	#s.g.allSegmentsToString()
 	s.linkEponymStations()
 	s.g.linkSegmentsToStations()
+	s.g.allStationsToString()
 
 
 

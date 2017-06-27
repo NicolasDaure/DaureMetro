@@ -2,9 +2,10 @@ from station import *
 import math
 # globIdAssigner = 0 # Createur d'identifiants de segments
 
-vPied = 1486.59/21 #Vitesse d'un pieton A CORRIGER
-vFuni = vPied * 3.5
-vRER = 1486.59 * 2.5 #Vitesse RER
+vMetro = 0.247767812455
+vPied = vMetro/21 #Vitesse d'un pieton en BLABLABLA/s
+vFuni = vPied * 4 #Vitesse funiculaire
+vRER = vMetro * 2.5 #Vitesse RER
 
 class Segment:
 
@@ -20,7 +21,7 @@ class Segment:
         self.coutDuree = 0
 
     def toString(self):
-    	print("%s: %s -> %s (D=%f km, T=%f)" %(self.numLigne, self.stationDepart.name, self.stationArrivee.name, self.coutDist, self.coutDuree))
+    	print("|| %s: %s>>>%s (D = %f, T = %f)" %(self.numLigne, self.stationDepart.name, self.stationArrivee.name, self.coutDist, self.coutDuree))
 
     def setDistance(self):
     	'''Attribue la distance entre les deux points du segment'''
@@ -61,6 +62,11 @@ if __name__ == "__main__":
 	seg = Segment("4", s1, s2)
 	print(type(seg))
 	seg.setDistance()
-	seg.setDureeMetro(0.49, 0.50)
+
+	dep = math.floor(0.49) * 3600 + (0.49 - math.floor(0.49)) * 100 * 60 #Conversion en secondes
+	arr = math.floor(0.50) * 3600 + (0.50 - math.floor(0.50)) * 100 * 60
+
+	seg.setDureeMetro(dep, arr)
+	print("V = %f" %(seg.getVitesse()))
 	seg.toString()
 	#print("Vmetro = %f") %(seg.coutDist/seg.coutDuree)
