@@ -16,21 +16,28 @@ class Graphe:
         for segment in self.segments:
             if (segment.stationDepart == segToAdd.stationDepart and segment.stationArrivee == segToAdd.stationArrivee and segment.numLigne == segToAdd.numLigne):
                 found = 1
-                print ("-!!!- [%s>%s] already added -!!!-") %(segToAdd.depart.name, segToAdd.arrivee.name)
+                print ("------!!!- [%s>%s] already added -!!!------") %(segToAdd.stationDepart.name, segToAdd.stationArrivee.name)
                 break
 
         if(found == 0):
             segToAdd.setDistance()
-
+            
             if "corr" in segToAdd.numLigne:
                 segToAdd.setDureeAPied()
-                #print("||| Correspondance segment created")
+                print("||| Correspondance segment created")
+                global nbCorr
+                nbCorr += 1
+
             elif "funi" in segToAdd.numLigne:
                 segToAdd.setDureeFuni()
-                #print("|| Funicular segment created")
+                print("|| Funicular segment created")
+                global nbFuni
+                nbFuni += 1
+
+                global nbSeg
+                nbSeg += 1
             else:
                 segToAdd.setDureeMetro(timeDep, timeArr)
-                #print("| Segment created")
 
             self.segments.append(segToAdd)
             #print("-----[%s>%s] added to graphe") %(segToAdd.stationDepart.name, segToAdd.stationArrivee.name)
@@ -93,11 +100,9 @@ class Graphe:
 
         return somme / counter
 
-    def allStationToString(self):
         for station in self.stations:
             print ("Station [%s] at (%d;%d)" %(station.name,station.coordX,station.coordY))
 
-    def allSegmentToString(self):
         for segment in self.segments:
             segment.toString()
 

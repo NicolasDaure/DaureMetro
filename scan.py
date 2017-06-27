@@ -44,7 +44,7 @@ class Scanner:
 
 								if(name != None and coordX != None and coordY != None):
 									self.g.addStation(name, coordX, coordY) #On ajoute que les stations avec des coordonnees
-
+							
 							else:
 								counter += 1
 
@@ -75,64 +75,53 @@ class Scanner:
 
 					#Scan des elements d'une ligne 
 					if(longueurPrec == longueurCourant):
-						for item in range(0, longueurCourant - 1): #Tuple de la ligne courante
-							if(item != '\n'):
-								if(item == 0): #Recuperation de la ligne de metro
-									line = list_values[item] ###### 1 variable globale assignée
-									# if("corr" in line):
-									# 	print(line)
+
+						if(longueurCourant >= 3): #Recuperation de la ligne de metro
+							line = list_values[0] ###### 1 variable globale assignée
+							nameDep = list_values_prec[2] #Station precedente
+							nameArr = list_values[2] #Station courante
+							
+							if "corr" in line or "": #Cas des correspondances a pied. On neglige les stations eponymes aux coord differentes
+								#print("||| Corr. to add found")
+								indexStationDep = self.g.index_station_grossier(nameDep) #Station precedente
+								indexStationArr = self.g.index_station_grossier(nameArr) #Station courante
+								if(indexStationDep != -1 and indexStationArr != -1): # On check que les stations existent et on les recupere
+									depart = self.g.stations[indexStationDep] ###### 2 -
+									arrivee = self.g.stations[indexStationArr] ###### 3 -
 										
+									self.g.addSegment(line, depart, arrivee, None, None)################# Creation corr		
 
-								elif(item == 2): # Recuperation des noms des stations concernees
-									if("corr" in line):
-										print(line)
-									nameDep = list_values_prec[item] #Station precedente
-									nameArr = list_values[item] #Station courante
-									
+						if (longueurCourant >= 5): #Coord X cas funi et triviaux ON NE RENTRE PAS POUR LES CAS SANS COORDONNEES car counter jamais 4
+							coordXDep = float(list_values_prec[3])
+							coordXArr = float(list_values[3])
+							coordYDep = float(list_values_prec[4])
+							coordYArr = float(list_values[4])
+								
+							if longueurCourant <= 5: #Cas RER et funi
+								indexStationDep = self.g.index_station_exact(nameDep, coordXDep, coordYDep) #Station precedente
+								indexStationArr = self.g.index_station_exact(nameArr, coordXArr, coordYArr) #Station courante
 
-									if(line == "corr"): #Cas des correspondances a pied. On neglige les stations eponymes aux coord differentes
-										print("||| Corr. to add found")
-										indexStationDep = self.g.index_station_grossier(nameDep) #Station precedente
-										indexStationArr = self.g.index_station_grossier(nameArr) #Station courante
+								if(indexStationDep != -1 and indexStationArr != -1):
+									depart = self.g.stations[indexStationDep] ###### 2
+									arrivee = self.g.stations[indexStationArr] ###### 3
 
-										if(indexStationDep != -1 and indexStationArr != -1): # On check que les stations existent et on les recupere
-											depart = self.g.stations[indexStationDep] ###### 2 -
-											arrivee = self.g.stations[indexStationArr] ###### 3 -
-												
-											self.g.addSegment(line, depart, arrivee, None, None)################# Creation corr				
+									self.g.addSegment(line, depart, arrivee, None, None)################ Creation funi
 
-								elif(item == 3): #Coord X cas funi et triviaux ON NE RENTRE PAS POUR LES CAS SANS COORDONNEES car counter jamais 4
-									coordXDep = float(list_values_prec[item])
-									coordXArr = float(list_values[item])
-									
-									
-								elif(item == 4):
-									coordYDep = float(list_values_prec[item])
-									coordYArr = float(list_values[item])
-										
-									if "funi" in line:
-										print("|| Funi. to add found")
-										indexStationDep = self.g.index_station_exact(nameDep, coordXDep, coordYDep) #Station precedente
-										indexStationArr = self.g.index_station_exact(nameArr, coordXArr, coordYArr) #Station courante
+						if(longueurCourant >= 7): #Cas metro
 
-										if(indexStationDep != -1 and indexStationArr != -1):
-											depart = self.g.stations[indexStationDep] ###### 2
-											arrivee = self.g.stations[indexStationArr] ###### 3
-											self.g.addSegment(line, depart, arrivee, None, None)################ Creation funi
+							tpsDep = float(list_values_prec[5])
+							tpsArr = float(list_values[5])
+							tpsDep = math.floor(tpsDep) * 3600 + (tpsDep - math.floor(tpsDep)) * 100 * 60 #Conversion en secondes
+							tpsArr = math.floor(tpsArr) * 3600 + (tpsArr - math.floor(tpsArr)) * 100 * 60
 
-								elif(item == 5):
-									tpsDep = float(list_values_prec[item])
-									tpsArr = float(list_values[item])
-									tpsDep = math.floor(tpsDep) * 3600 + (tpsDep - math.floor(tpsDep)) * 100 * 60 #Conversion en secondes
-									tpsArr = math.floor(tpsArr) * 3600 + (tpsArr - math.floor(tpsArr)) * 100 * 60
+							indexStationDep = self.g.index_station_exact(nameDep, coordXDep, coordYDep) #Station precedente
+							indexStationArr = self.g.index_station_exact(nameArr, coordXArr, coordYArr)
 
-									indexStationDep = self.g.index_station_exact(nameDep, coordXDep, coordYDep) #Station precedente
-									indexStationArr = self.g.index_station_exact(nameArr, coordXArr, coordYArr)
-
-									if(indexStationDep != -1 and indexStationArr != -1):
-										depart = self.g.stations[indexStationDep] ###### 2
-										arrivee = self.g.stations[indexStationArr] ###### 3
-										self.g.addSegment(line, depart, arrivee, tpsDep, tpsArr)############### Creation segment trivial
+							if(indexStationDep != -1 and indexStationArr != -1):
+								#print("| Segment to add found")
+								depart = self.g.stations[indexStationDep] ###### 2
+								arrivee = self.g.stations[indexStationArr] ###### 3
+								self.g.addSegment(line, depart, arrivee, tpsDep, tpsArr)############### Creation segment trivial
 
 
 
@@ -141,9 +130,17 @@ if __name__ == "__main__":
 
 	s = Scanner()
 	s.parseStations()
-	#s.g.allStationToString()
+	#s.g.allStationsToString()
 	
 	s.parseSegments()
+	#s.g.allSegmentsToString()
+
+
+	print("Stations = %f" %(nbSta))
+	print("Voyage = %f" %(nbSeg))
+	print("Corres = %f" %(nbCorr))
+	print("Funi = %f" %(nbFuni))
+
 
 
 
