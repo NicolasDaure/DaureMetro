@@ -1,9 +1,8 @@
-from metro import *
-import math
+a = {}
+b = set()
 
-a = "4.33"
+b.add(1)
+b = float(b)
 
-a = float(a)
-
-print(a)
-print((a - math.floor(a)) * 100 * 60 + 3600 * math.floor(a) )
+print(type(a))
+print(type(b))

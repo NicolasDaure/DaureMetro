@@ -50,7 +50,7 @@ class BinHeap:
       while (i > 0):
           self.percDown(i)
           i = i - 1
-
+          
 bh = BinHeap()
 bh.buildHeap([9,5,6,2,3])
 

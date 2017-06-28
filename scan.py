@@ -43,7 +43,7 @@ class Scanner:
 								counter += 1
 
 								if(name != None and coordX != None and coordY != None):
-									self.g.addStation(name, coordX, coordY) #On ajoute que les stations avec des coordonnees
+									self.g.add_Station(name, coordX, coordY) #On ajoute que les stations avec des coordonnees
 							
 							else:
 								counter += 1
@@ -89,7 +89,7 @@ class Scanner:
 									depart = self.g.stations[indexStationDep] ###### 2 -
 									arrivee = self.g.stations[indexStationArr] ###### 3 -
 										
-									self.g.addSegment(line, depart, arrivee, None, None)################# Creation corr		
+									self.g.add_Segment(line, depart, arrivee, None, None)################# Creation corr		
 
 						if (longueurCourant >= 5): #Coord X cas funi et triviaux ON NE RENTRE PAS POUR LES CAS SANS COORDONNEES car counter jamais 4
 							coordXDep = float(list_values_prec[3])
@@ -105,7 +105,7 @@ class Scanner:
 									depart = self.g.stations[indexStationDep] ###### 2
 									arrivee = self.g.stations[indexStationArr] ###### 3
 
-									self.g.addSegment(line, depart, arrivee, None, None)################ Creation funi
+									self.g.add_Segment(line, depart, arrivee, None, None)################ Creation funi
 
 						if(longueurCourant >= 7): #Cas metro
 
@@ -121,15 +121,23 @@ class Scanner:
 								#print("| Segment to add found")
 								depart = self.g.stations[indexStationDep] ###### 2
 								arrivee = self.g.stations[indexStationArr] ###### 3
-								self.g.addSegment(line, depart, arrivee, tpsDep, tpsArr)############### Creation segment trivial
+								self.g.add_Segment(line, depart, arrivee, tpsDep, tpsArr)############### Creation segment trivial
 	
 	def linkEponymStations(self):
 		for station1 in self.g.stations:
 			for station2 in self.g.stations:
 				if(station1.name == station2.name and station1.coordX != station2.coordX and station1.coordY != station2.coordY):
-					# print("%s>>>%s") %(station1.name, station2.name)
-					self.g.addSegment("corr", station1, station2, None, None)
-    
+					# print("%s>>>%s" %(station1.name, station2.name))
+					self.g.add_Segment("corr", station1, station2, None, None)
+
+	def build_Vertices(self):
+		for station in self.g.stations:
+			self.g.add_Vertex(station)
+			#print (">> %s added as vertex <<" %(station.name))
+
+		for segment in self.g.segments:
+			self.g.add_Arc(segment.stationDepart, segment.stationArrivee, segment.coutDist)
+			#print(">>> [%s-%s] added as edge <<<" %(segment.stationDepart, segment.stationArrivee))
 
 if __name__ == "__main__":
 
@@ -139,11 +147,8 @@ if __name__ == "__main__":
 	s.parseSegments()
 	#s.g.allSegmentsToString()
 	s.linkEponymStations()
-	s.g.linkSegmentsToStations()
-	s.g.allStationsToString()
-
-
-
+	s.g.linkSegmentsToStations() # Graphe modelisation ready a ce stade
+	#s.g.allStationsToString()
 
 
 
