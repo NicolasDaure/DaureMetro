@@ -9,6 +9,7 @@ class Graphe:
 		'''Constructeur du graphe soit un ensemble d'arretes et noeuds'''
 		self.stations = [] #Liste des stations pour l'affichage
 		self.segments = []  #Liste des arretes pour l'affichage
+		
 		self.vertDictio = {}
 		self.countVert = 0
 
@@ -63,16 +64,23 @@ class Graphe:
 			self.stations.append(stationToAdd)
 
 	def add_Vertex(self, station):
+		'''Cree les sommets dans la structure de calcul'''
+		#print("Vertex added")
 		self.countVert += 1
 		vertToAdd = Vertex(station)
 		self.vertDictio[station] = vertToAdd
 		return vertToAdd
 
 	def add_Arc(self, origine, cible, cout = 0):
+		'''Cree un arc en ajoutant la cible au label origine dans le dico'''
+		#print ("Arc added")
 		if origine not in self.vertDictio:
-			self.add_Vertex(origine) #Graphe oriente donc pas d'equivalent retour
-		self.vertDictio[origine].add_Voisin(self.vertDictio[cible], cout)
+			self.add_Vertex(origine) #On sait jamais si le sommet origine n'est pas dans les vertex
+		#if cible not in self.vertDictio:
+		#	self.add_Vertex(cible)
 
+		self.vertDictio[origine].add_Voisin(self.vertDictio[cible], cout)
+		#self.vertDictio[cible].add_Voisin(self.vertDictio[origine], cout)
 
 	def linkSegmentsToStations(self):
 		for station in self.stations: #Pour chaque objet station dans la liste des stations du graphe

@@ -130,14 +130,20 @@ class Scanner:
 					# print("%s>>>%s" %(station1.name, station2.name))
 					self.g.add_Segment("corr", station1, station2, None, None)
 
-	def build_Vertices(self):
+	def build_Vertices(self, mode):
 		for station in self.g.stations:
 			self.g.add_Vertex(station)
 			#print (">> %s added as vertex <<" %(station.name))
 
-		for segment in self.g.segments:
-			self.g.add_Arc(segment.stationDepart, segment.stationArrivee, segment.coutDist)
-			#print(">>> [%s-%s] added as edge <<<" %(segment.stationDepart, segment.stationArrivee))
+		if "dist" in mode:
+			for segment in self.g.segments:
+				self.g.add_Arc(segment.stationDepart, segment.stationArrivee, segment.coutDist)
+				#print(">>> [%s-%s] added as edge <<<" %(segment.stationDepart, segment.stationArrivee))
+		elif "time" in mode:
+			for segment in self.g.segments:
+				self.g.add_Arc(segment.stationDepart, segment.stationArrivee, segment.coutDuree)
+
+
 
 if __name__ == "__main__":
 

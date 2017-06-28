@@ -1,8 +1,3 @@
-a = {}
-b = set()
+from metro import *
 
-b.add(1)
-b = float(b)
-
-print(type(a))
-print(type(b))
+testBidon()

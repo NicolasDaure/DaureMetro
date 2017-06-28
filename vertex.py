@@ -9,7 +9,6 @@ class Vertex:
 		self.parcouru = False
 		self.papa = None
 
-
 	def add_Voisin(self, voisin, poids = 0):
 		self.adjacents[voisin] = poids
 
@@ -35,3 +34,6 @@ class Vertex:
 
 	def set_Distance(self, dist):
 		self.distance = dist
+
+	def toString(self):
+		print("(VERTEX) [%s] : NbAdj(%f)" %(self.id.name, len(self.adjacents)))
