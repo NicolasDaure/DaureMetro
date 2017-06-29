@@ -78,7 +78,7 @@ if __name__ == '__main__':
 	#s.g.allSegmentsToString()
 
 
-	s.build_Vertices("dist")
+	
 
 
 	####### AFFICHAGE TEST DE LA STRUCTURE VERTEX ######
@@ -90,6 +90,7 @@ if __name__ == '__main__':
 	# 		wid = w.get_Id().name
 	# 		print"(%s, %s, %f)" %(vid, wid, v.get_Poids(w))
 	
+	s.build_Vertices("dist")
 
 	source = s.g.get_Vertex(s.g.stations[0]) #Exemple a changer getClic1
 	destination = s.g.get_Vertex(s.g.stations[15]) #Exemple a changer getClic2
@@ -100,10 +101,10 @@ if __name__ == '__main__':
 	cheminLePlusCourt(destination, path)
 
 	for i in path:
-		print i.name
+		print (i.name)
 
 
-	# ######Interface graphique choix des stations et du mode
+	#######Interface graphique choix des stations et du mode
 
 
 
